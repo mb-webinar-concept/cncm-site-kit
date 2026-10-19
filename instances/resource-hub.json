@@ -1,0 +1,39 @@
+{
+  "title": "Resource library",
+  "module": "library",
+  "rootClass": "cncm-wl",
+  "fallback": "Browse all resources on the <a href=\"https://www.childnutritioncouncil.com/resources\">Resource Hub</a>.",
+  "data": [
+    {
+      "id": "cncm-rh-data",
+      "file": "data/resources.csv"
+    }
+  ],
+  "config": {
+    "rootId": "cncm-resource-hub",
+    "dataId": "cncm-rh-data",
+    "prefix": "rh",
+    "sheetCsvUrl": "",
+    "text": {
+      "en": {
+        "label": "Resource library",
+        "one": "resource",
+        "many": "resources",
+        "search": "Search resources",
+        "placeholder": "Title, topic or keyword",
+        "view": "Open resource",
+        "resources": "Details"
+      },
+      "fr": {
+        "label": "Bibliothèque de ressources",
+        "one": "ressource",
+        "many": "ressources",
+        "search": "Rechercher des ressources",
+        "placeholder": "Titre, sujet ou mot-clé",
+        "view": "Ouvrir la ressource",
+        "resources": "Détails"
+      }
+    },
+    "defaultSort": "az"
+  }
+}

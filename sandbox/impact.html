@@ -1,0 +1,371 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Impact by region · Plain page</title></head><body><!--
+  CNCM Impact by region · site kit v1.0.0 · built from instances/impact.json
+  Paste this ENTIRE block into a Squarespace Code Block (Add Block > Code, turn OFF "Display Source").
+  Edit content in the DATA block(s) below, or set a Google Sheet CSV link in CONFIG. See docs/STAFF-GUIDE.md.
+-->
+<div id="cncm-impact" class="cncm-im" role="region" aria-label="Impact by region">
+  <noscript><p>See our <a href="https://www.childnutritioncouncil.com/local-impact">Local Impact</a> page.</p></noscript>
+</div>
+<style>
+  .cncm-im {
+    /* ---- Brand settings: change these to match the site ---- */
+    --im-accent: #1f6f43;
+    --im-accent-dark: #174f31;
+    --im-ink: #1d2a24;
+    --im-muted: #52625a;
+    --im-line: #cfdad3;
+    --im-soft: #e6f2ea;
+    --im-card-bg: #ffffff;
+    /* -------------------------------------------------------- */
+    box-sizing: border-box; font-family: inherit; font-size: 16px; line-height: 1.5;
+    color: var(--im-ink); max-width: 1100px; margin: 0 auto; padding: 8px 0 24px;
+  }
+  .cncm-im *, .cncm-im *::before, .cncm-im *::after { box-sizing: border-box; }
+  .cncm-im p, .cncm-im ul, .cncm-im li, .cncm-im h3 { margin: 0; padding: 0; letter-spacing: 0; text-transform: none; }
+  .cncm-im ul { list-style: none; }
+  .cncm-im .im-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin: 0 0 32px; }
+  .cncm-im .im-stat { background: var(--im-card-bg); border: 1px solid var(--im-line); border-radius: 10px; padding: 20px; display: flex; flex-direction: column; gap: 6px; }
+  .cncm-im .im-value { font-size: 36px; font-weight: 700; line-height: 1.1; color: var(--im-accent-dark); }
+  .cncm-im .im-label { font-size: 16px; font-weight: 600; }
+  .cncm-im .im-detail { font-size: 15px; color: var(--im-muted); }
+  .cncm-im .im-source { font-size: 13px; color: var(--im-muted); margin-top: auto; padding-top: 6px; }
+  .cncm-im a { color: var(--im-accent-dark); text-decoration: underline; border: 0; }
+  .cncm-im .im-h { font: inherit; font-size: 20px; font-weight: 700; line-height: 1.3; color: var(--im-ink); margin: 0 0 12px; }
+  .cncm-im .im-regions { margin: 0 0 32px; }
+  .cncm-im .im-bars { display: flex; flex-direction: column; gap: 6px; }
+  .cncm-im .im-barbtn {
+    width: 100%; min-height: 44px; display: grid; grid-template-columns: 140px 1fr 56px; gap: 12px; align-items: center;
+    background: none; border: 0; border-radius: 8px; padding: 6px 8px; margin: 0; cursor: pointer;
+    font: inherit; font-size: 15px; color: var(--im-ink); text-align: left; text-transform: none; letter-spacing: 0;
+  }
+  .cncm-im .im-barbtn:hover { background: var(--im-soft); }
+  .cncm-im .im-track { height: 20px; background: var(--im-soft); border-radius: 4px; overflow: hidden; display: block; }
+  .cncm-im .im-fill { display: block; height: 100%; background: var(--im-accent); border-radius: 4px; }
+  .cncm-im .im-barnum { font-weight: 700; text-align: right; font-variant-numeric: tabular-nums; }
+  .cncm-im .im-toolbar { display: grid; grid-template-columns: 2fr 1fr; gap: 12px; align-items: end; margin: 0 0 8px; }
+  .cncm-im .im-field { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+  .cncm-im .im-label-f { font-size: 14px; font-weight: 600; margin: 0; padding: 0; text-transform: none; letter-spacing: 0; display: block; }
+  .cncm-im .im-input, .cncm-im .im-select {
+    width: 100%; min-height: 44px; margin: 0; padding: 8px 12px; font: inherit; font-size: 16px; color: var(--im-ink);
+    background: #fff; border: 1.5px solid #7d8f85; border-radius: 8px; box-shadow: none; text-transform: none; letter-spacing: 0;
+  }
+  .cncm-im .im-input:focus-visible, .cncm-im .im-select:focus-visible, .cncm-im .im-barbtn:focus-visible,
+  .cncm-im a:focus-visible, .cncm-im .im-table:focus-visible { outline: 3px solid var(--im-accent); outline-offset: 2px; }
+  .cncm-im .im-count { font-size: 15px; color: var(--im-muted); margin: 4px 0 8px; }
+  .cncm-im .im-tablewrap { overflow-x: auto; border: 1px solid var(--im-line); border-radius: 10px; }
+  .cncm-im .im-tablewrap[hidden], .cncm-im .im-empty[hidden] { display: none; }
+  .cncm-im .im-table { width: 100%; border-collapse: collapse; font-size: 15px; background: var(--im-card-bg); }
+  .cncm-im .im-table th, .cncm-im .im-table td { padding: 10px 12px; border-bottom: 1px solid var(--im-line); text-align: left; vertical-align: top; font-weight: 400; }
+  .cncm-im .im-table thead th { font-weight: 700; background: var(--im-soft); }
+  .cncm-im .im-table tbody th { font-weight: 600; }
+  .cncm-im .im-table tr:last-child th, .cncm-im .im-table tr:last-child td { border-bottom: 0; }
+  .cncm-im .im-num { text-align: right !important; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .cncm-im .im-note { display: block; font-size: 13px; font-weight: 400; color: var(--im-muted); }
+  .cncm-im .im-empty { padding: 24px; text-align: center; color: var(--im-muted); border: 1px dashed var(--im-line); border-radius: 10px; }
+  .cncm-im .im-vh { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap; }
+  @media (max-width: 600px) {
+    .cncm-im .im-toolbar { grid-template-columns: 1fr; }
+    .cncm-im .im-barbtn { grid-template-columns: 96px 1fr 44px; }
+  }
+</style>
+<!-- DATA: one row per line, first line is the header. Wrap a value in "double quotes" if it contains a comma. -->
+<script type="text/plain" id="cncm-im-stats">
+label,value,detail,source,source_url
+School food programs funded,443,"26 of them new in 2025–26",CNCM Annual Report 2025–26,https://www.childnutritioncouncil.com/s/CNCM-2025-2026-Annual-Report.pdf
+Students served daily,"81,000+","Across urban, rural, northern and First Nations schools",CNCM Annual Report 2025–26,https://www.childnutritioncouncil.com/s/CNCM-2025-2026-Annual-Report.pdf
+In program grants,$4.7M,All of it stays in Manitoba,CNCM Annual Report 2025–26,https://www.childnutritioncouncil.com/s/CNCM-2025-2026-Annual-Report.pdf
+Of Manitobans in food-insecure households,27.9%,"2025 data; third-highest rate among the provinces",PROOF (University of Toronto),https://proof.utoronto.ca/?p=8132
+</script>
+<script type="text/plain" id="cncm-im-divisions">
+region,division,schools_supported,schools_total,note
+North,First Nations Schools*,11,54,multi-region
+North,Flin Flon School Division,4,4,
+North,Frontier School Division*,26,39,multi-region
+North,Kelsey School Division,3,5,
+North,Mystery Lake School District,1,7,
+South East,Division scolaire franco-manitobaine*,4,25,multi-region
+South East,Evergreen School Division,5,8,
+South East,First Nations Schools*,3,54,multi-region
+South East,Hanover School Division,1,19,
+South East,Interlake School Division,0,21,
+South East,Lakeshore School Division,7,10,
+South East,Lord Selkirk School Division,7,15,
+South East,Red River Valley School Division*,4,13,multi-region
+South East,Seine River School Division*,12,15,multi-region
+South East,Sunrise School Division,3,19,
+South East,Whiteshell School Division,2,2,
+South West,Beautiful Plains School Division,1,14,
+South West,Brandon School Division,23,24,some supported with Brandon's Food for Thought
+South West,Division scolaire franco-manitobaine*,1,25,multi-region
+South West,First Nations Schools*,7,54,multi-region
+South West,Fort La Bosse School Division,2,10,
+South West,Frontier School Division*,1,39,multi-region
+South West,Mountain View School Division,15,16,some with Dauphin Friendship Centre program
+South West,Park West School Division,10,16,
+South West,Rolling River School Division,12,17,
+South West,Southwest Horizon School Division,7,12,
+South West,Swan Valley School Division,6,7,
+South West,Turtle Mountain,1,7,
+South West,Turtle River School Division,4,7,
+South Central,Border Land School Division,8,17,
+South Central,Division scolaire franco-manitobaine*,5,25,multi-region
+South Central,First Nations Schools*,1,54,multi-region
+South Central,Garden Valley School Division,4,14,
+South Central,Pine Creek School Division,6,14,
+South Central,Portage la Prairie School Division,7,17,
+South Central,Prairie Rose School Division,1,22,
+South Central,Prairie Spirit School Division,13,29,
+South Central,Red River Valley School Division*,1,13,multi-region
+South Central,Western School Division,1,4,
+South Central,Independent School Division*,1,68,multi-region
+Winnipeg,Division scolaire franco-manitobaine*,6,25,multi-region
+Winnipeg,Louis Riel School Division,27,40,
+Winnipeg,Pembina Trails School Division,17,36,
+Winnipeg,River East Transcona School Division,29,42,
+Winnipeg,Seine River School Division*,1,15,multi-region
+Winnipeg,Seven Oaks School Division,27,26,"as printed on site; supported exceeds total so denominator is likely a typo"
+Winnipeg,St James Assiniboia School Division,21,26,
+Winnipeg,Winnipeg School Division,55,80,
+Winnipeg,Independent School Division*,7,68,multi-region
+</script>
+<script>
+/* CNCM impact module: headline numbers, schools by region, and a searchable division table.
+   Source file: the build script wraps this into a paste-in file in dist/. */
+(function () {
+  'use strict';
+
+  /* ---------------- CONFIG: safe to edit ---------------- */
+  var CONFIG = {
+    "rootId": "cncm-impact",
+    "statsId": "cncm-im-stats",
+    "divisionsId": "cncm-im-divisions"
+  };
+  /* ------------------------------------------------------- */
+  var DEFAULTS = {
+    rootId: 'cncm-impact',
+    statsId: 'cncm-im-stats',         // <script type="text/plain"> with label,value,detail,source,source_url
+    divisionsId: 'cncm-im-divisions', // <script type="text/plain"> with region,division,schools_supported,schools_total,note
+    statsCsvUrl: '',                  // optional published Google Sheet (CSV) for the numbers
+    divisionsCsvUrl: '',              // optional published Google Sheet (CSV) for the divisions
+    language: 'auto',
+    text: {}
+  };
+  (function () { for (var key in DEFAULTS) { if (!(key in CONFIG)) { CONFIG[key] = DEFAULTS[key]; } } })();
+
+  var TEXT = {
+    en: {
+      label: 'Our impact', byRegion: 'Schools supported, by region', table: 'Schools supported, by school division',
+      search: 'Search divisions', placeholder: 'Division name', region: 'Region', allRegions: 'All regions',
+      division: 'School division', supported: 'Schools supported', total: 'Schools in division',
+      showing: 'Showing {k} of {n} divisions', none: 'No division matches your search.',
+      source: 'Source', note: 'Note', of: 'of', schools: 'schools'
+    },
+    fr: {
+      label: 'Notre impact', byRegion: 'Écoles soutenues, par région', table: 'Écoles soutenues, par division scolaire',
+      search: 'Rechercher une division', placeholder: 'Nom de la division', region: 'Région', allRegions: 'Toutes les régions',
+      division: 'Division scolaire', supported: 'Écoles soutenues', total: 'Écoles de la division',
+      showing: '{k} divisions sur {n}', none: 'Aucune division ne correspond à votre recherche.',
+      source: 'Source', note: 'Remarque', of: 'sur', schools: 'écoles'
+    }
+  };
+  var lang = CONFIG.language === 'fr' || CONFIG.language === 'en' ? CONFIG.language
+    : (/^fr/i.test(document.documentElement.getAttribute('lang') || '') ? 'fr' : 'en');
+  var T = {}, k;
+  for (k in TEXT.en) { T[k] = TEXT[lang][k]; }
+  var over = CONFIG.text && (CONFIG.text.en || CONFIG.text.fr) ? (CONFIG.text[lang] || {}) : (CONFIG.text || {});
+  for (k in over) { if (Object.prototype.hasOwnProperty.call(over, k)) { T[k] = over[k]; } }
+  var LOCALE = lang === 'fr' ? 'fr-CA' : 'en-CA';
+
+  var root = document.getElementById(CONFIG.rootId);
+  if (!root || root.getAttribute('data-ready') === '1') { return; }
+  root.setAttribute('data-ready', '1');
+
+  function parseCSV(text) {
+    var rows = [], row = [], field = '', inQ = false, i, c;
+    text = String(text || '').replace(/^﻿/, '');
+    for (i = 0; i < text.length; i++) {
+      c = text.charAt(i);
+      if (inQ) {
+        if (c === '"') { if (text.charAt(i + 1) === '"') { field += '"'; i++; } else { inQ = false; } }
+        else { field += c; }
+      } else if (c === '"') { inQ = true; }
+      else if (c === ',') { row.push(field); field = ''; }
+      else if (c === '\n' || c === '\r') {
+        if (c === '\r' && text.charAt(i + 1) === '\n') { i++; }
+        row.push(field); field = ''; rows.push(row); row = [];
+      } else { field += c; }
+    }
+    if (field.length || row.length) { row.push(field); rows.push(row); }
+    return rows.filter(function (r) { return r.some(function (x) { return String(x).trim() !== ''; }); });
+  }
+  function records(text) {
+    var rows = parseCSV(text);
+    if (!rows.length) { return []; }
+    var head = rows[0].map(function (h) { return String(h).trim().toLowerCase(); });
+    return rows.slice(1).map(function (r) {
+      var o = {};
+      head.forEach(function (h, i) { o[h] = r[i] != null ? String(r[i]).trim() : ''; });
+      return o;
+    });
+  }
+  function el(tag, cls, text) {
+    var n = document.createElement(tag);
+    if (cls) { n.className = cls; }
+    if (text != null) { n.textContent = text; }
+    return n;
+  }
+  function safeUrl(u) { u = String(u || '').trim(); return /^https?:\/\//i.test(u) ? u : ''; }
+  function fold(s) {
+    s = String(s || '').toLowerCase();
+    return s.normalize ? s.normalize('NFD').replace(/[̀-ͯ]/g, '') : s;
+  }
+  function num(s) { var n = parseInt(String(s).replace(/[^\d-]/g, ''), 10); return isNaN(n) ? null : n; }
+  function fmtNum(n) { try { return n.toLocaleString(LOCALE); } catch (e) { return String(n); } }
+  function block(id) { var d = document.getElementById(id); return d ? d.textContent : ''; }
+  function load(url, fallbackText) {
+    if (!url || typeof fetch !== 'function') { return Promise.resolve(fallbackText); }
+    return fetch(url, { cache: 'no-store' })
+      .then(function (r) { if (!r.ok) { throw new Error('HTTP ' + r.status); } return r.text(); })
+      .then(function (t) { if (!records(t).length) { throw new Error('no rows'); } return t; })
+      .catch(function (e) {
+        if (window.console && console.warn) { console.warn('[impact] Using built-in data. ' + e.message); }
+        return fallbackText;
+      });
+  }
+
+  function renderStats(stats) {
+    if (!stats.length) { return null; }
+    var ul = el('ul', 'im-stats');
+    stats.forEach(function (s) {
+      if (!s.value) { return; }
+      var li = el('li', 'im-stat');
+      li.appendChild(el('p', 'im-value', s.value));
+      li.appendChild(el('p', 'im-label', s.label));
+      if (s.detail) { li.appendChild(el('p', 'im-detail', s.detail)); }
+      if (s.source) {
+        var src = el('p', 'im-source');
+        var href = safeUrl(s.source_url);
+        if (href) {
+          var a = el('a', null, s.source); a.href = href; a.target = '_blank'; a.rel = 'noopener noreferrer';
+          src.appendChild(document.createTextNode(T.source + ': ')); src.appendChild(a);
+        } else { src.textContent = T.source + ': ' + s.source; }
+        li.appendChild(src);
+      }
+      ul.appendChild(li);
+    });
+    return ul;
+  }
+
+  function start(statsText, divText) {
+    var stats = records(statsText);
+    var divs = records(divText).filter(function (d) { return d.division; }).map(function (d) {
+      return { region: d.region, division: d.division, sup: num(d.schools_supported), tot: num(d.schools_total),
+               note: d.note || '', hay: fold(d.division + ' ' + d.region) };
+    });
+    while (root.firstChild) { root.removeChild(root.firstChild); }
+    root.setAttribute('aria-label', T.label);
+
+    var s = renderStats(stats);
+    if (s) { root.appendChild(s); }
+    if (!divs.length) { return; }
+
+    // Region totals, computed from the division rows
+    var totals = {}, order = [];
+    divs.forEach(function (d) {
+      if (!(d.region in totals)) { totals[d.region] = 0; order.push(d.region); }
+      totals[d.region] += d.sup || 0;
+    });
+    order.sort(function (a, b) { return totals[b] - totals[a]; });
+    var max = Math.max.apply(null, order.map(function (r) { return totals[r]; })) || 1;
+
+    var sec = el('section', 'im-regions');
+    var h = el('h3', 'im-h', T.byRegion); h.id = CONFIG.rootId + '-regions-h';
+    sec.setAttribute('aria-labelledby', h.id);
+    sec.appendChild(h);
+    var list = el('ul', 'im-bars');
+    order.forEach(function (r) {
+      var li = el('li', 'im-bar');
+      var btn = el('button', 'im-barbtn');
+      btn.type = 'button';
+      btn.setAttribute('aria-label', r + ': ' + fmtNum(totals[r]) + ' ' + T.schools);
+      btn.appendChild(el('span', 'im-barlabel', r));
+      var track = el('span', 'im-track');
+      var fill = el('span', 'im-fill');
+      fill.style.width = Math.max(2, Math.round(totals[r] / max * 100)) + '%';
+      track.appendChild(fill);
+      btn.appendChild(track);
+      btn.appendChild(el('span', 'im-barnum', fmtNum(totals[r])));
+      btn.addEventListener('click', function () { sel.value = r; render(); table.focus(); });
+      li.appendChild(btn);
+      list.appendChild(li);
+    });
+    sec.appendChild(list);
+    root.appendChild(sec);
+
+    // Searchable table
+    var tsec = el('section', 'im-tablesec');
+    var th = el('h3', 'im-h', T.table); th.id = CONFIG.rootId + '-table-h';
+    tsec.setAttribute('aria-labelledby', th.id);
+    tsec.appendChild(th);
+    var bar = el('div', 'im-toolbar');
+    bar.setAttribute('role', 'search');
+    var q = el('input', 'im-input'); q.type = 'search'; q.id = CONFIG.rootId + '-q';
+    q.setAttribute('placeholder', T.placeholder); q.setAttribute('autocomplete', 'off');
+    var ql = el('label', 'im-label-f', T.search); ql.setAttribute('for', q.id);
+    var sel = el('select', 'im-select'); sel.id = CONFIG.rootId + '-region';
+    var sl = el('label', 'im-label-f', T.region); sl.setAttribute('for', sel.id);
+    var all = el('option', null, T.allRegions); all.value = ''; sel.appendChild(all);
+    order.slice().sort(function (a, b) { return a.localeCompare(b, LOCALE); }).forEach(function (r) {
+      var o = el('option', null, r); o.value = r; sel.appendChild(o);
+    });
+    var f1 = el('div', 'im-field'); f1.appendChild(ql); f1.appendChild(q);
+    var f2 = el('div', 'im-field'); f2.appendChild(sl); f2.appendChild(sel);
+    bar.appendChild(f1); bar.appendChild(f2);
+    tsec.appendChild(bar);
+    var status = el('p', 'im-count'); status.setAttribute('role', 'status'); status.setAttribute('aria-live', 'polite');
+    tsec.appendChild(status);
+    var wrap = el('div', 'im-tablewrap');
+    var table = el('table', 'im-table'); table.tabIndex = -1;
+    var cap = el('caption', 'im-vh', T.table); table.appendChild(cap);
+    var thead = el('thead'); var hr = el('tr');
+    [T.division, T.region, T.supported, T.total].forEach(function (t, i) {
+      var c = el('th', i > 1 ? 'im-num' : null, t); c.scope = 'col'; hr.appendChild(c);
+    });
+    thead.appendChild(hr); table.appendChild(thead);
+    var tbody = el('tbody'); table.appendChild(tbody);
+    wrap.appendChild(table); tsec.appendChild(wrap);
+    var empty = el('p', 'im-empty', T.none); empty.hidden = true; tsec.appendChild(empty);
+    root.appendChild(tsec);
+
+    function render() {
+      var words = fold(q.value).split(/\s+/).filter(Boolean), r = sel.value;
+      var shown = divs.filter(function (d) {
+        if (r && d.region !== r) { return false; }
+        for (var i = 0; i < words.length; i++) { if (d.hay.indexOf(words[i]) < 0) { return false; } }
+        return true;
+      }).sort(function (a, b) { return a.division.localeCompare(b.division, LOCALE) || a.region.localeCompare(b.region, LOCALE); });
+      while (tbody.firstChild) { tbody.removeChild(tbody.firstChild); }
+      shown.forEach(function (d) {
+        var tr = el('tr');
+        var c1 = el('th', null, d.division); c1.scope = 'row';
+        if (d.note) { c1.appendChild(el('span', 'im-note', d.note)); }
+        tr.appendChild(c1);
+        tr.appendChild(el('td', null, d.region));
+        tr.appendChild(el('td', 'im-num', d.sup == null ? '' : fmtNum(d.sup)));
+        tr.appendChild(el('td', 'im-num', d.tot == null ? '' : fmtNum(d.tot)));
+        tbody.appendChild(tr);
+      });
+      status.textContent = T.showing.replace('{k}', shown.length).replace('{n}', divs.length);
+      empty.hidden = shown.length > 0;
+      wrap.hidden = shown.length === 0;
+    }
+    q.addEventListener('input', render);
+    sel.addEventListener('change', render);
+    render();
+  }
+
+  Promise.all([load(CONFIG.statsCsvUrl, block(CONFIG.statsId)), load(CONFIG.divisionsCsvUrl, block(CONFIG.divisionsId))])
+    .then(function (r) { start(r[0], r[1]); });
+})();
+</script>
+</body></html>

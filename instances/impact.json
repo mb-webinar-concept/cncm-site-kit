@@ -1,0 +1,11 @@
+{
+  "title": "Impact by region",
+  "module": "impact",
+  "rootClass": "cncm-im",
+  "fallback": "See our <a href=\"https://www.childnutritioncouncil.com/local-impact\">Local Impact</a> page.",
+  "data": [
+    { "id": "cncm-im-stats", "file": "data/impact-stats.csv" },
+    { "id": "cncm-im-divisions", "file": "data/divisions.csv" }
+  ],
+  "config": { "rootId": "cncm-impact", "statsId": "cncm-im-stats", "divisionsId": "cncm-im-divisions" }
+}

@@ -1,0 +1,50 @@
+region,division,schools_supported,schools_total,note
+North,First Nations Schools*,11,54,multi-region
+North,Flin Flon School Division,4,4,
+North,Frontier School Division*,26,39,multi-region
+North,Kelsey School Division,3,5,
+North,Mystery Lake School District,1,7,
+South East,Division scolaire franco-manitobaine*,4,25,multi-region
+South East,Evergreen School Division,5,8,
+South East,First Nations Schools*,3,54,multi-region
+South East,Hanover School Division,1,19,
+South East,Interlake School Division,0,21,
+South East,Lakeshore School Division,7,10,
+South East,Lord Selkirk School Division,7,15,
+South East,Red River Valley School Division*,4,13,multi-region
+South East,Seine River School Division*,12,15,multi-region
+South East,Sunrise School Division,3,19,
+South East,Whiteshell School Division,2,2,
+South West,Beautiful Plains School Division,1,14,
+South West,Brandon School Division,23,24,some supported with Brandon's Food for Thought
+South West,Division scolaire franco-manitobaine*,1,25,multi-region
+South West,First Nations Schools*,7,54,multi-region
+South West,Fort La Bosse School Division,2,10,
+South West,Frontier School Division*,1,39,multi-region
+South West,Mountain View School Division,15,16,some with Dauphin Friendship Centre program
+South West,Park West School Division,10,16,
+South West,Rolling River School Division,12,17,
+South West,Southwest Horizon School Division,7,12,
+South West,Swan Valley School Division,6,7,
+South West,Turtle Mountain,1,7,
+South West,Turtle River School Division,4,7,
+South Central,Border Land School Division,8,17,
+South Central,Division scolaire franco-manitobaine*,5,25,multi-region
+South Central,First Nations Schools*,1,54,multi-region
+South Central,Garden Valley School Division,4,14,
+South Central,Pine Creek School Division,6,14,
+South Central,Portage la Prairie School Division,7,17,
+South Central,Prairie Rose School Division,1,22,
+South Central,Prairie Spirit School Division,13,29,
+South Central,Red River Valley School Division*,1,13,multi-region
+South Central,Western School Division,1,4,
+South Central,Independent School Division*,1,68,multi-region
+Winnipeg,Division scolaire franco-manitobaine*,6,25,multi-region
+Winnipeg,Louis Riel School Division,27,40,
+Winnipeg,Pembina Trails School Division,17,36,
+Winnipeg,River East Transcona School Division,29,42,
+Winnipeg,Seine River School Division*,1,15,multi-region
+Winnipeg,Seven Oaks School Division,27,26,"as printed on site; supported exceeds total so denominator is likely a typo"
+Winnipeg,St James Assiniboia School Division,21,26,
+Winnipeg,Winnipeg School Division,55,80,
+Winnipeg,Independent School Division*,7,68,multi-region

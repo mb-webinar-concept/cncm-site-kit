@@ -1,0 +1,60 @@
+  .cncm-im {
+    /* ---- Brand settings: change these to match the site ---- */
+    --im-accent: #1f6f43;
+    --im-accent-dark: #174f31;
+    --im-ink: #1d2a24;
+    --im-muted: #52625a;
+    --im-line: #cfdad3;
+    --im-soft: #e6f2ea;
+    --im-card-bg: #ffffff;
+    /* -------------------------------------------------------- */
+    box-sizing: border-box; font-family: inherit; font-size: 16px; line-height: 1.5;
+    color: var(--im-ink); max-width: 1100px; margin: 0 auto; padding: 8px 0 24px;
+  }
+  .cncm-im *, .cncm-im *::before, .cncm-im *::after { box-sizing: border-box; }
+  .cncm-im p, .cncm-im ul, .cncm-im li, .cncm-im h3 { margin: 0; padding: 0; letter-spacing: 0; text-transform: none; }
+  .cncm-im ul { list-style: none; }
+  .cncm-im .im-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin: 0 0 32px; }
+  .cncm-im .im-stat { background: var(--im-card-bg); border: 1px solid var(--im-line); border-radius: 10px; padding: 20px; display: flex; flex-direction: column; gap: 6px; }
+  .cncm-im .im-value { font-size: 36px; font-weight: 700; line-height: 1.1; color: var(--im-accent-dark); }
+  .cncm-im .im-label { font-size: 16px; font-weight: 600; }
+  .cncm-im .im-detail { font-size: 15px; color: var(--im-muted); }
+  .cncm-im .im-source { font-size: 13px; color: var(--im-muted); margin-top: auto; padding-top: 6px; }
+  .cncm-im a { color: var(--im-accent-dark); text-decoration: underline; border: 0; }
+  .cncm-im .im-h { font: inherit; font-size: 20px; font-weight: 700; line-height: 1.3; color: var(--im-ink); margin: 0 0 12px; }
+  .cncm-im .im-regions { margin: 0 0 32px; }
+  .cncm-im .im-bars { display: flex; flex-direction: column; gap: 6px; }
+  .cncm-im .im-barbtn {
+    width: 100%; min-height: 44px; display: grid; grid-template-columns: 140px 1fr 56px; gap: 12px; align-items: center;
+    background: none; border: 0; border-radius: 8px; padding: 6px 8px; margin: 0; cursor: pointer;
+    font: inherit; font-size: 15px; color: var(--im-ink); text-align: left; text-transform: none; letter-spacing: 0;
+  }
+  .cncm-im .im-barbtn:hover { background: var(--im-soft); }
+  .cncm-im .im-track { height: 20px; background: var(--im-soft); border-radius: 4px; overflow: hidden; display: block; }
+  .cncm-im .im-fill { display: block; height: 100%; background: var(--im-accent); border-radius: 4px; }
+  .cncm-im .im-barnum { font-weight: 700; text-align: right; font-variant-numeric: tabular-nums; }
+  .cncm-im .im-toolbar { display: grid; grid-template-columns: 2fr 1fr; gap: 12px; align-items: end; margin: 0 0 8px; }
+  .cncm-im .im-field { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+  .cncm-im .im-label-f { font-size: 14px; font-weight: 600; margin: 0; padding: 0; text-transform: none; letter-spacing: 0; display: block; }
+  .cncm-im .im-input, .cncm-im .im-select {
+    width: 100%; min-height: 44px; margin: 0; padding: 8px 12px; font: inherit; font-size: 16px; color: var(--im-ink);
+    background: #fff; border: 1.5px solid #7d8f85; border-radius: 8px; box-shadow: none; text-transform: none; letter-spacing: 0;
+  }
+  .cncm-im .im-input:focus-visible, .cncm-im .im-select:focus-visible, .cncm-im .im-barbtn:focus-visible,
+  .cncm-im a:focus-visible, .cncm-im .im-table:focus-visible { outline: 3px solid var(--im-accent); outline-offset: 2px; }
+  .cncm-im .im-count { font-size: 15px; color: var(--im-muted); margin: 4px 0 8px; }
+  .cncm-im .im-tablewrap { overflow-x: auto; border: 1px solid var(--im-line); border-radius: 10px; }
+  .cncm-im .im-tablewrap[hidden], .cncm-im .im-empty[hidden] { display: none; }
+  .cncm-im .im-table { width: 100%; border-collapse: collapse; font-size: 15px; background: var(--im-card-bg); }
+  .cncm-im .im-table th, .cncm-im .im-table td { padding: 10px 12px; border-bottom: 1px solid var(--im-line); text-align: left; vertical-align: top; font-weight: 400; }
+  .cncm-im .im-table thead th { font-weight: 700; background: var(--im-soft); }
+  .cncm-im .im-table tbody th { font-weight: 600; }
+  .cncm-im .im-table tr:last-child th, .cncm-im .im-table tr:last-child td { border-bottom: 0; }
+  .cncm-im .im-num { text-align: right !important; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .cncm-im .im-note { display: block; font-size: 13px; font-weight: 400; color: var(--im-muted); }
+  .cncm-im .im-empty { padding: 24px; text-align: center; color: var(--im-muted); border: 1px dashed var(--im-line); border-radius: 10px; }
+  .cncm-im .im-vh { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap; }
+  @media (max-width: 600px) {
+    .cncm-im .im-toolbar { grid-template-columns: 1fr; }
+    .cncm-im .im-barbtn { grid-template-columns: 96px 1fr 44px; }
+  }

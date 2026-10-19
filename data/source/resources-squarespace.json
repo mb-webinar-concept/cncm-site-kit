@@ -1,0 +1,2791 @@
+{
+ "fetchedAt": "2026-10-19T20:51:01.645Z",
+ "source": "https://www.childnutritioncouncil.com/resources?format=json",
+ "categories": [
+  {
+   "name": "Webinars",
+   "url": "/resources/webinar"
+  },
+  {
+   "name": "Food Safety",
+   "url": "/resources/food-safety"
+  },
+  {
+   "name": "Menu Ideas",
+   "url": "/resources/menu-ideas"
+  },
+  {
+   "name": "Menu Planning",
+   "url": "/resources/menu-planning"
+  },
+  {
+   "name": "Nurturing School Nutrition Environments",
+   "url": "/resources/nurturing-school-nutrition-environments"
+  },
+  {
+   "name": "Nutrition Guidelines for Schools",
+   "url": "/resources/nutrition-guidelines-schools"
+  },
+  {
+   "name": "Partnerships and Volunteers",
+   "url": "/resources/partnerships-and-volunteers"
+  },
+  {
+   "name": "Program Planning",
+   "url": "/resources/program-planning"
+  },
+  {
+   "name": "Recipes",
+   "url": "/resources/recipes"
+  }
+ ],
+ "items": [
+  {
+   "title": "Webinar - Food Waste Prevention",
+   "url": "https://www.childnutritioncouncil.com/resources/p/more-than-a-meal-unlocking-food-literacy-in-school-settings-swl62",
+   "categories": [
+    "Webinars",
+    "Nurturing School Nutrition Environments",
+    "Program Planning"
+   ],
+   "tags": [
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> ACCESS WEBINAR <<‍ ‍ Getty Stewart, PHEc, is a Professional Home Economist, cookbook author, and food waste educator. Through Getty’s website, social media and weekly newsletter, she shares practical, research-based tips on selecting, storing, and freezing food to help home cooks waste less and eat well. Getty is Food Waste Champion with Love Food Hate Waste Canada and draws on her training in Human Ecology and Education from the University of Manitoba.www.gettystewart.com For the latest information on Best Before Dates and Food Waste in Canada check here: Food Waste in Canada - LoveFoodHateWaste Canada - https://lovefoodhatewaste.ca/about/food-waste/ Best Before Date information in Canada Canada Food Inspection Agency - https://inspection.canada.ca/en/food-labels/labelling/consumers/date-labels-foodThe views expressed by speakers or other third parties in the Child Nutrition Council of Manitoba’s webinars, events and/or conferences are those of the speaker or third-party and not necessarily of the Child Nutrition Council of Manitoba.",
+   "excerptLinks": [
+    {
+     "href": "https://us06web.zoom.us/rec/share/hI5OJnZjZ5CEWzTYI8qWSZUiQkRRFDtW9pZUm2DOn7i-fI3rL5UY4IpkHDa2yp5O.qAwXFFyo1-FOA35T?startTime=1786717559000&pwd=DE7WyYH_g_KxM3wpfgAAIAAAAI0ryGkeZcKoEOF__ZgZebDyKiUsQ3aaNE5tNlnIEEyn_h1mNTsiEqX9BWrR_Myb6TAwMDAwNA",
+     "text": ">> ACCESS WEBINAR <<"
+    },
+    {
+     "href": "http://www.gettystewart.com/",
+     "text": "www.gettystewart.com"
+    },
+    {
+     "href": "https://lovefoodhatewaste.ca/about/food-waste/",
+     "text": "https://lovefoodhatewaste.ca/about/food-waste/"
+    },
+    {
+     "href": "https://inspection.canada.ca/en/food-labels/labelling/consumers/date-labels-food",
+     "text": "https://inspection.canada.ca/en/food-labels/labelling/consumers/date-labels-food"
+    }
+   ]
+  },
+  {
+   "title": "Simple Guide to Cooking Pulses",
+   "url": "https://www.childnutritioncouncil.com/resources/p/cooking-pulses",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Protein",
+    "New",
+    "Vegetables and Fruits"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://pulses.org/nap/wp-content/uploads/2016/04/Simplified-Cooking-Guide-Final.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Evaluation & Monitoring Guide",
+   "url": "https://www.childnutritioncouncil.com/resources/p/evaluation-monitoring-guide",
+   "categories": [
+    "Program Planning"
+   ],
+   "tags": [
+    "New",
+    "Best Practices"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": "‍>> LINK TO RESOURCE <<Check out additional guides for school food programs:School Food Programs in Canada: 15 Promising Cases>> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<Needs Assessment & Community Engagement >> LINK TO RESOURCE <<Food Literacy Education Guide >> LINK TO RESOURCE <<Operations & Costing Guide >> LINK TO RESOURCE <<School Food Typologies >> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://hdl.handle.net/10388/17923",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/15712",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16398",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16312",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16656",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/17152",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16889",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "School Food Operation Models: School Food Typologies",
+   "url": "https://www.childnutritioncouncil.com/resources/p/school-food-typologies",
+   "categories": [
+    "Program Planning"
+   ],
+   "tags": [
+    "New",
+    "Best Practices"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<Check out additional guides for school food programs:School Food Programs in Canada: 15 Promising Cases>> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<Needs Assessment & Community Engagement >> LINK TO RESOURCE <<Food Literacy Education Guide >> LINK TO RESOURCE <<Operations & Costing Guide >> LINK TO RESOURCE <<Evaluation & Monitoring >> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://hdl.handle.net/10388/16889",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/15712",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16398",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16312",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16656",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/17152",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/17923",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Operations & Costing Guide",
+   "url": "https://www.childnutritioncouncil.com/resources/p/operations-costing-guide",
+   "categories": [
+    "Menu Planning",
+    "Partnerships and Volunteers",
+    "Program Planning"
+   ],
+   "tags": [
+    "New",
+    "Food Safety",
+    "Menu Planning",
+    "Shopping",
+    "Volunteers",
+    "Best Practices"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<Check out additional guides for school food programs:School Food Programs in Canada: 15 Promising Cases>> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<Needs Assessment & Community Engagement >> LINK TO RESOURCE <<Food Literacy Education Guide >> LINK TO RESOURCE <<School Food Typologies >> LINK TO RESOURCE <<Evaluation & Monitoring >> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://hdl.handle.net/10388/17152",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/15712",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16398",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16312",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16656",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16889",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/17923",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Food Literacy Education Guide",
+   "url": "https://www.childnutritioncouncil.com/resources/p/food-literacy-education-guide",
+   "categories": [
+    "Nurturing School Nutrition Environments",
+    "Program Planning"
+   ],
+   "tags": [
+    "New",
+    "Food Literacy",
+    "French"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<Check out additional guides for school food programs:School Food Programs in Canada: 15 Promising Cases>> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<Needs Assessment & Community Engagement >> LINK TO RESOURCE <<Operations & Costing >> LINK TO RESOURCE <<School Food Typologies >> LINK TO RESOURCE <<Evaluation & Monitoring >> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://hdl.handle.net/10388/16656",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/15712",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16398",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16312",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/17152",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16889",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/17923",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Needs Assessment & Community Engagement",
+   "url": "https://www.childnutritioncouncil.com/resources/p/needs-assessment-community-engagement",
+   "categories": [
+    "Partnerships and Volunteers",
+    "Program Planning"
+   ],
+   "tags": [
+    "New",
+    "Volunteers",
+    "Best Practices"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<Check out additional guides for school food programs:School Food Programs in Canada: 15 Promising Cases>> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<Food Literacy Education Guide >> LINK TO RESOURCE <<Operations & Costing >> LINK TO RESOURCE <<School Food Typologies >> LINK TO RESOURCE <<Evaluation & Monitoring >> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://hdl.handle.net/10388/16312",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/15712",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16398",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16656",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/17152",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16889",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/17923",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "School Food Programs in Canada: 15 Promising Cases",
+   "url": "https://www.childnutritioncouncil.com/resources/p/school-food-programs-in-canada-15-promising-cases",
+   "categories": [
+    "Partnerships and Volunteers",
+    "Program Planning"
+   ],
+   "tags": [
+    "New",
+    "Best Practices"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<Check out additional guides for school food programs:Needs Assessment & Community Engagement >> LINK TO RESOURCE <<Food Literacy Education Guide >> LINK TO RESOURCE <<Operations & Costing >> LINK TO RESOURCE <<School Food Typologies >> LINK TO RESOURCE <<Evaluation & Monitoring >> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://hdl.handle.net/10388/15712",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16398",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16312",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16656",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/17152",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/16889",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://hdl.handle.net/10388/17923",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Webinar - More Than a Meal: Unlocking Food Literacy in School Settings",
+   "url": "https://www.childnutritioncouncil.com/resources/p/more-than-a-meal-unlocking-food-literacy-in-school-settings",
+   "categories": [
+    "Webinars",
+    "Nurturing School Nutrition Environments",
+    "Program Planning"
+   ],
+   "tags": [
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> ACCESS WEBINAR <<‍ ‍ >> ACCESS FOOD LITERACY EDUCATION GUIDE <<In this one-hour webinar, we will explore the Food Literacy Education Guide. This guide outlines the concept of food literacy, as well as how food literacy can be integrated in the school food context through examples throughout Canada. Join us to learn more about how to implement food literacy educational practices in your school community to develop food-related knowledge and skills and to foster positive experiences with food for young people. Presenters: Lindsay Corbin and Dr. Alicia Martin Lindsay Corbin brings a background in public health nutrition to her advocacy and community development work with Nourish Nova Scotia and the Coalition for Healthy School Food. Passionate about the intersection of policy and practice, Lindsay is contributing to work that ensures Canada’s National School Food Program includes comprehensive food literacy education. An eternal optimist, she believes that by the time her children graduate, Canada will be a global leader in nourishing students and building lifelong food literacy. Dr. Alicia Martin is a Postdoctoral Fellow in the Department of Sociology and Social Anthropology at Dalhousie University working with the Common Ground Network. She studies food systems, food security, and food literacy, promoting sustainability through an interdisciplinary lens. Alicia is interested in how a broadly conceptualized food literacy can be more holistically incorporated into education and school food programming. She has a PhD in Geography from the University of Guelph and a Master of Arts in Political Science with a Specialization in Environmental Sustainability from the University of Ottawa.The views expressed by speakers or other third parties in the Child Nutrition Council of Manitoba’s webinars, events and/or conferences are those of the speaker or third-party and not necessarily of the Child Nutrition Council of Manitoba.",
+   "excerptLinks": [
+    {
+     "href": "https://us06web.zoom.us/rec/share/klWCp8UAjcoa7ZFzAPKSi2hOxNRRc44w-EMuBdsaQUN18wNjAQiElyxn-DXZtJxh.Tay-3Zrku4g1lLi0",
+     "text": ">> ACCESS WEBINAR <<"
+    },
+    {
+     "href": "https://harvest.usask.ca/items/ee7b8354-c2f6-434e-bc02-7a7704e73d87",
+     "text": ">> ACCESS FOOD LITERACY EDUCATION GUIDE <<"
+    }
+   ]
+  },
+  {
+   "title": "Collecting Feedback",
+   "url": "https://www.childnutritioncouncil.com/resources/p/collecting-feedback",
+   "categories": [
+    "Partnerships and Volunteers",
+    "Program Planning"
+   ],
+   "tags": [
+    "New",
+    "Student",
+    "Survey"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/NEW-Collecting-Feedback.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Webinar - Inclusive Considerations for Neurodiversity: Rethinking Mealtime Expectations, Regulation, and Ability",
+   "url": "https://www.childnutritioncouncil.com/resources/p/inclusive-considerations-for-neurodiversity",
+   "categories": [
+    "Webinars",
+    "Nurturing School Nutrition Environments",
+    "Program Planning"
+   ],
+   "tags": [
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> ACCESS WEBINAR <<This one-hour session helps school food program staff and school leaders understand how everyday nutrition and mealtime messages may unintentionally favour neurotypical students and exclude neurodivergent learners. Attendees will learn how to recognize these patterns and create more inclusive, supportive food environments. This webinar will explore: How sensory needs and neurodevelopmental differences shape eating experiences How traditional guidance often assumes typical interoception, sensory tolerance, and executive functioning Why grazing, screen use, and flexible routines can be legitimate regulation strategies rather than problems to correct The ways universal language (e.g., “should,” “avoid grazing,” “limit distractions”) can create implicit norms about “good” eating -Practical reframes and inclusive language schools can use to better support all students without shame or pressure Presented by: Susan Watson, RD from A Little Nutrition Susan Watson, RD, CEDS is a registered dietitian and Certified Eating Disorder Specialist, and the founder of A Little Nutrition Inc., a multidisciplinary nutrition and therapy practice based in Winnipeg, Manitoba. Susan works closely with individuals, families, and professionals to make nutrition feel more understandable, flexible, and realistic—especially for people who have felt left out by conventional nutrition messages. She has a strong interest in neurodiversity and inclusion, and is particularly passionate about helping schools and care providers rethink mealtime expectations so that eating can better support regulation, safety, and learning for all students. Through her work, Susan focuses on reducing shame around food, challenging one-size-fits-all guidance, and helping people build food environments that work with—not against—different bodies, brains, and needs.Please note: Webinar recording will be available until February 18, 2028.The views expressed by speakers or other third parties in the Child Nutrition Council of Manitoba’s webinars, events and/or conferences are those of the speaker or third-party and not necessarily of the Child Nutrition Council of Manitoba.",
+   "excerptLinks": [
+    {
+     "href": "https://us06web.zoom.us/rec/share/QrzZhsB7OS493qjug65lHisk8S7FSrLPPQvyg_mS0T3geIwY1Tuy8uJ-vFrLlcse.CwfpEs_6r3eB35RA",
+     "text": ">> ACCESS WEBINAR <<"
+    }
+   ]
+  },
+  {
+   "title": "Food Literacy in School Food Programs",
+   "url": "https://www.childnutritioncouncil.com/resources/p/what-is-food-literacy",
+   "categories": [
+    "Nurturing School Nutrition Environments",
+    "Program Planning"
+   ],
+   "tags": [
+    "Food Literacy",
+    "New"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/CNCM-Food-Literacy.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Webinar - Nutrition 101",
+   "url": "https://www.childnutritioncouncil.com/resources/p/webinar-nutrition-101",
+   "categories": [
+    "Webinars",
+    "Program Planning"
+   ],
+   "tags": [
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> ACCESS WEBINAR <<Are you ready to enhance your confidence with selecting nutritious menu items to offer in your school’s food program? Dive into the essentials of balanced nutrition in this Nutrition 101: Nourishing Students session facilitated by Madelaine Morrish, RD! In this one-hour session, you will learn what foods make up nutritious meals and snacks while also learning about the benefits of incorporating more whole grains and protein rich foods that align with the Manitoba School Nutrition Guidelines. By the end of this session, you will walk away with more menu ideas that you can start implementing in your school’s food program!Presented by:Child Nutrition Council of Manitoba - Madelaine Morrish, RDMadelaine Morrish is a community dietitian with the Child Nutrition Council of Manitoba and has worked as a dietitian for over 10 years. She is passionate about supporting communities through public health initiatives and has been working with CNCM since 2024 supporting school food programs.",
+   "excerptLinks": [
+    {
+     "href": "https://us06web.zoom.us/rec/share/qmKMVZwnOYBdSiuSf8XJbj9avLoVmbcVUyoiuN5-lGwVlMqE-QqTgDqV0qnHrNQ.9Prw_4UGYext5Kfa",
+     "text": ">> ACCESS WEBINAR <<"
+    }
+   ]
+  },
+  {
+   "title": "Religious Diversity in Schools",
+   "url": "https://www.childnutritioncouncil.com/resources/p/religious-diversity-in-schools",
+   "categories": [
+    "Menu Planning",
+    "Partnerships and Volunteers",
+    "Program Planning"
+   ],
+   "tags": [
+    "Shopping",
+    "Menu Planning",
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Religious-Diversity-in-Schools.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Build a Culturally Diverse Menu",
+   "url": "https://www.childnutritioncouncil.com/resources/p/build-a-culturally-diverse-menu",
+   "categories": [
+    "Menu Planning",
+    "Partnerships and Volunteers",
+    "Program Planning"
+   ],
+   "tags": [
+    "Shopping",
+    "Menu Planning",
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Build-A-Culturally-Diverse-Menu.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Sandwich Filling Ideas",
+   "url": "https://www.childnutritioncouncil.com/resources/p/sandwich-filling-ideas",
+   "categories": [
+    "Menu Ideas",
+    "Recipes"
+   ],
+   "tags": [
+    "Protein",
+    "Grains",
+    "Vegetables and Fruits",
+    "Menu Planning",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2024-03-12",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Sandwich-Filling-Ideas-tfl9.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Webinar - Scaling for Success",
+   "url": "https://www.childnutritioncouncil.com/resources/p/webinar-rrc-scaling",
+   "categories": [
+    "Webinars",
+    "Program Planning"
+   ],
+   "tags": [
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> ACCESS WEBINAR <<Presented in partnership with Red River College Polytech, this one-hour webinar focuses on how to spot reliable recipes, steer clear of social media flops, and master the art of scaling dishes for larger groups. The session will highlight how precise measurement practices help manage costs, maintain quality, and support efficient school food programs. Practical examples will demonstrate how to adapt recipes successfully while avoiding common scaling challenges.Presented by:Red River College Polytech - Richard WarrenRichard Warren has a Red Seal Certification in cooking and baking. He works as an instructor for the Red River College Culinary Program.The views expressed by speakers or other third parties in the Child Nutrition Council of Manitoba’s webinars, events and/or conferences are those of the speaker or third-party and not necessarily of the Child Nutrition Council of Manitoba.",
+   "excerptLinks": [
+    {
+     "href": "https://us06web.zoom.us/rec/share/a9slragF-TQpJUb9OAzAKn1_f5ouHy2NPwARtjCIUWbcJhbuftISCedjXXkQ1bgK.tfJxgMFPN7sqilUS",
+     "text": ">> ACCESS WEBINAR <<"
+    }
+   ]
+  },
+  {
+   "title": "Webinar - Table of Trust: Nourishing Children in School",
+   "url": "https://www.childnutritioncouncil.com/resources/p/webinar-table-of-trust-nourishing-children-in-school",
+   "categories": [
+    "Webinars",
+    "Nurturing School Nutrition Environments"
+   ],
+   "tags": [
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> ACCESS WEBINAR <<Presented in partnership with the Women's Health Clinic, this one-hour webinar will take a deeper look at health and food for children. It will encourage participants to think about connection, pleasure, accessibility, and harm reduction. It will explore trust and permission with food while highlighting disordered eating risk, and will introduce a weight inclusive approach to health and well-being. It will allow participants to reflect on the importance of language, food environments, and division of responsibility to support confident young eaters. Presented by: Anna Millan (she/her) Anna is the Health Educator for the Provincial Eating Disorder Prevention and Recovery Program. As a student in the Masters of Marriage and Family Therapy program at the University of Winnipeg, she applies a systems lens to her work with disordered eating. A nerd at heart, Anna enjoys researching and diving deep on topics that are new to her, spending time with family and friends, and especially her cat, Oz. Kat Oksanen, RD, CDE (she/they) Kat is the Health and Social Services Program Coordinator for the Provincial Eating Disorder Prevention and Recovery Program. They are a registered dietitian and certified diabetes educator. They are a parent, a social justice advocate, and believe the reasons for complicated relationships with food and body are tied to larger system issues that result in disconnection from ourselves and our communities. They live rural and enjoy paddling, puppies, and spending time with friends and family.Please note: Webinar recording will be available until November 5, 2026.The views expressed by speakers or other third parties in the Child Nutrition Council of Manitoba’s webinars, events and/or conferences are those of the speaker or third-party and not necessarily of the Child Nutrition Council of Manitoba.",
+   "excerptLinks": [
+    {
+     "href": "https://us06web.zoom.us/rec/share/TdefcOztTLP7kTmju5Xlm2aYxBfHyL4XvoCxjp_jFNwHhirq1C7JrcKwH4RLQ2E.lWv7MDfoxQMkpMvT",
+     "text": ">> ACCESS WEBINAR <<"
+    }
+   ]
+  },
+  {
+   "title": "Project Funding Opportunities",
+   "url": "https://www.childnutritioncouncil.com/resources/p/project-funding-opportunities",
+   "categories": [
+    "Program Planning"
+   ],
+   "tags": [
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Project-Funding-Opportunities-dj8l.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Coalition for Healthy School Food Infographic: What is Food Literacy?",
+   "url": "https://www.childnutritioncouncil.com/resources/p/what-is-food-literacy-infographic",
+   "categories": [
+    "Nurturing School Nutrition Environments"
+   ],
+   "tags": [
+    "French"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<The Coalition for Healthy School Food Infographic: What is Food Literacy?Food literacy is about understanding where food comes from, how to choose and prepare it, and how it impacts both our health and the environment. The “What is Food Literacy” infographic created by the Coalition for Healthy School Food emphasizes hands-on learning about food and food systems, such as growing and cooking food, and reducing waste. By getting kids excited about food through education, we help children build lifelong skills and develop a deeper appreciation for the role of food in their lives and communities.",
+   "excerptLinks": [
+    {
+     "href": "https://e7a651fe-6e96-431d-9a6f-a7fa6f71676d.usrfiles.com/ugd/e7a651_3205d2f563c64e3c9a3919271c81a9c1.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://e7a651fe-6e96-431d-9a6f-a7fa6f71676d.usrfiles.com/ugd/e7a651_da49cd0880e34433a7f79950ab1ebeea.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Coalition for Healthy School Food Infographic: What is a School Food Program?",
+   "url": "https://www.childnutritioncouncil.com/resources/p/what-s-a-school-food-program",
+   "categories": [
+    "Nurturing School Nutrition Environments"
+   ],
+   "tags": [
+    "French"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<The Coalition for Healthy School Food Infographic: What is a School Food Program? highlights how school food programs can promote eating habits that will help students for life, create valuable learning opportunities, incorporate cultural and local foods, and support local communities. Inclusivity is also key. The best programs are universally accessible and make every child feel welcome.",
+   "excerptLinks": [
+    {
+     "href": "https://e7a651fe-6e96-431d-9a6f-a7fa6f71676d.usrfiles.com/ugd/e7a651_d84bb5e708a243efb36bd00a21a81f09.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://e7a651fe-6e96-431d-9a6f-a7fa6f71676d.usrfiles.com/ugd/e7a651_a7cd5492d82c431c8776dddd3ed5bff1.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Webinar - Safely Serving Food in a School Setting",
+   "url": "https://www.childnutritioncouncil.com/resources/p/safely-serving-food-in-a-school-setting",
+   "categories": [
+    "Webinars",
+    "Food Safety"
+   ],
+   "tags": [
+    "Food Safety",
+    "Best Practices"
+   ],
+   "addedOn": "2023-11-04",
+   "excerptText": ">> ACCESS WEBINAR <<The Child Nutrition Council of Manitoba invites you to view this recorded webinar facilitated by Natalie Lowdon, Regional Manager for the Winnipeg Health Protection Unit and Barbara Adamkowicz, Food Safety Specialist for a session packed with information about food category definitions (ie. pre-packaged food, ready-to-eat food), how to determine your food safety equipment requirements (sink, thermometer for refrigeration) and what type of permit is needed for your program. Additional information is shared on strategies to involve students in school meal and snack programs.The views expressed by speakers or other third parties in the Child Nutrition Council of Manitoba’s webinars, events and/or conferences are those of the speaker or third-party and not necessarily of the Child Nutrition Council of Manitoba.",
+   "excerptLinks": [
+    {
+     "href": "https://us06web.zoom.us/rec/share/UooJI3xYPbyq7zTjK0WIVLHSDrzNHDiFYVhqY5Vk5rUlsVwr1izgxcDTr64ts4zl.7_tohl18ddD4S9KE",
+     "text": ">> ACCESS WEBINAR <<"
+    }
+   ]
+  },
+  {
+   "title": "Routine Practices: Guide to Creating a Healthy Environment and Preventing Infections within Child Care Facilities and Schools",
+   "url": "https://www.childnutritioncouncil.com/resources/p/routine-practices",
+   "categories": [
+    "Food Safety"
+   ],
+   "tags": [
+    "Food Safety",
+    "Best Practices"
+   ],
+   "addedOn": "2023-11-04",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.edu.gov.mb.ca/k12/docs/routine_practices/index.html",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.edu.gov.mb.ca/m12/frpub/pratiques_base/index.html",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Webinar - Reducing Stigma in School Food Programs",
+   "url": "https://www.childnutritioncouncil.com/resources/p/reducing-stigma-in-school-food-programs",
+   "categories": [
+    "Webinars",
+    "Nurturing School Nutrition Environments"
+   ],
+   "tags": [],
+   "addedOn": "2024-07-18",
+   "excerptText": ">> ACCESS WEBINAR <<In partnership with Tapestry Collective Co-op, the BC Chapter of the Coalition for Healthy School Food hosted this \"Reducing Stigma in School Food Programs\" webinar on April 18, 2024, to offer insights and strategies for addressing stigma in BC school food programs.The webinar included a panel discussion, featuring Viveca Ellis from Centre for Family Equity, and Serena Caner from School District 83, followed by a collective conversation. Together, they explored what stigma looks like in school food programs and harvested practical strategies and tools to overcome these challenges.The views expressed by speakers or other third parties in the Child Nutrition Council of Manitoba’s webinars, events and/or conferences are those of the speaker or third-party and not necessarily of the Child Nutrition Council of Manitoba.",
+   "excerptLinks": [
+    {
+     "href": "https://www.youtube.com/watch?v=ziDah-_Ms2g",
+     "text": ">> ACCESS WEBINAR <<"
+    }
+   ]
+  },
+  {
+   "title": "Webinar - School Food Programs in Canada - Needs Assessment & Engagement Guide",
+   "url": "https://www.childnutritioncouncil.com/resources/p/webinar-school-food-programs-in-canada-needs-assessment-and-engagement-guide",
+   "categories": [
+    "Webinars",
+    "Program Planning"
+   ],
+   "tags": [],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> ACCESS WEBINAR <<The Child Nutrition Council of Manitoba invites you to view a recorded webinar facilitated by Stef Foster, from the University of Saskatchewan, who will share key recommendations and tools for schools from the School Food Programs in Canada Needs Assessment & Engagement Guide that was released in the Fall of 2024. Whether starting from scratch or scaling up, this webinar is designed to empower schools to assess needs, engage stakeholders, and collaborate effectively.The views expressed by speakers or other third parties in the Child Nutrition Council of Manitoba’s webinars, events and/or conferences are those of the speaker or third-party and not necessarily of the Child Nutrition Council of Manitoba.",
+   "excerptLinks": [
+    {
+     "href": "https://us06web.zoom.us/rec/share/hNQ-oOp-p9kUx-UhtKboOu5s342dX4iY1x92Gls0tfXNzuJg4LLk11fIIpKHpqiq.RIt7y8gkUtVzvpQk?startTime=1774978868000%20Passcode:%20UF02vy&@",
+     "text": ">> ACCESS WEBINAR <<"
+    }
+   ]
+  },
+  {
+   "title": "Savour the Flavour - Delicious Egg Recipes from Manitoba Egg Farmers",
+   "url": "https://www.childnutritioncouncil.com/resources/p/savourtheflavourdeliciouseggrecipes",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Cookbooks",
+    "Protein"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<This resource includes recipes shared by Manitoba school and child care facilities. Created with low cost ingredients and simple steps, these recipes can provide nourishing, tasty options to children while saving valuable time.",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Savour-the-Flavour-2024-WEB-1.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Lunch Time Favourites from Manitoba Egg Farmers",
+   "url": "https://www.childnutritioncouncil.com/resources/p/lunchtimefavouritesmanitobaeggfarmers",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Cookbooks",
+    "Protein"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://eggs.mb.ca/wp-content/uploads/2025/06/Lunchbox-Recipe-Book-2023-v2.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Sample Student Feedback Surveys",
+   "url": "https://www.childnutritioncouncil.com/resources/p/student-feedback-survey",
+   "categories": [
+    "Program Planning"
+   ],
+   "tags": [
+    "Survey",
+    "Student"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": "Survey Data can provide valuable information when applying for funding, asking for support, donations, or recruiting volunteers.This survey is meant to be a sample. If it meets your needs, you can use it as is, or you may want to discuss with others at your school about how you might develop a survey that would meet the specific needs of your school.Student Survey: Sample One >> LINK TO RESOURCE <<Student Survey: Sample Two >> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Sample-Student-Survey.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Sample-Student-Survey-mnl2.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Public Health Permits: Frequently Asked Questions",
+   "url": "https://www.childnutritioncouncil.com/resources/p/public-health-permits-faq",
+   "categories": [
+    "Food Safety"
+   ],
+   "tags": [
+    "Food Safety"
+   ],
+   "addedOn": "2023-11-04",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.edu.gov.mb.ca/docs/sector_coms/faq_school_meal_program.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.edu.gov.mb.ca/ed/docs/comms/lettres/flq_programmes_de_repas_scolaires.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Child Nutrition Council of Manitoba Grants FAQ - Frequently Asked Questions",
+   "url": "https://www.childnutritioncouncil.com/resources/p/faq",
+   "categories": [
+    "Program Planning"
+   ],
+   "tags": [],
+   "addedOn": "2024-08-27",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/CNCM-FAQ-Frequently-Ask-Questions-2026-2027.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Teaching Canada's Food Guide: Toolkit for Educators",
+   "url": "https://www.childnutritioncouncil.com/resources/p/teaching-canadas-food-guide-toolkit-for-educators",
+   "categories": [
+    "Nurturing School Nutrition Environments"
+   ],
+   "tags": [
+    "French"
+   ],
+   "addedOn": "2024-07-02",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.canada.ca/en/health-canada/services/food-guide/educators-professionals/toolkit.html",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.canada.ca/fr/sante-canada/services/guide-alimentaire/educateurs-professionnels/trousse.html",
+     "text": ">> CONSULTER LA  RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "From school cooks to school cooks: Top tips and recommendations for supporting tasty and enjoyable school meals - Food and Agriculture Organization of the United Nations",
+   "url": "https://www.childnutritioncouncil.com/resources/p/from-school-cooks-to-school-cooks",
+   "categories": [
+    "Nutrition Guidelines for Schools"
+   ],
+   "tags": [],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.fao.org/interactive/school-cooks-experiences/en/",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.fao.org/interactive/school-cooks-experiences/fr/",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Plant Powered Meal Ideas",
+   "url": "https://www.childnutritioncouncil.com/resources/p/plant-powered-meal-ideas",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Protein",
+    "Grains",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2024-03-12",
+   "excerptText": ">> DOWNLOAD <<Key search terms: pulses, beans, lentils, nuts, seeds, protein",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Plant-Powered-Meal-Ideas-lla7.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Plant Based Menu Ideas",
+   "url": "https://www.childnutritioncouncil.com/resources/p/plant-based-menu-ideas",
+   "categories": [
+    "Menu Planning"
+   ],
+   "tags": [
+    "Protein",
+    "Shopping",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<Key search terms: pulses, beans, lentils, nuts, seeds, protein",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Plant-Based-Menu-Ideas.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Frozen Banana Pops",
+   "url": "https://www.childnutritioncouncil.com/resources/p/frozen-banana-pops",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Grains",
+    "Vegetables and Fruits",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2024-04-09",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Frozen-Banana-Pops.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Ready to Eat Snacks",
+   "url": "https://www.childnutritioncouncil.com/resources/p/ready-to-eat-snacks",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Protein",
+    "Grains",
+    "New",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2024-03-12",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Ready-to-Eat-Snacks.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Triple Berry Quinoa Oatmeal Bake",
+   "url": "https://www.childnutritioncouncil.com/resources/p/triple-berry-oatmeal-bake",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Grains",
+    "Vegetables and Fruits",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-21",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Triple-Berry-Quinoa-Oatmeal-Bake.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "DIY Trail Mix",
+   "url": "https://www.childnutritioncouncil.com/resources/p/diy-trail-mix",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-21",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/DYI-Trail-Mix.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Building Partnerships",
+   "url": "https://www.childnutritioncouncil.com/resources/p/building-partnerships",
+   "categories": [
+    "Partnerships and Volunteers"
+   ],
+   "tags": [
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Building-Partnerships.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Quick Breakfast Ideas",
+   "url": "https://www.childnutritioncouncil.com/resources/p/quick-breakfast-ideas",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Shopping",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Quick-BREAKFAST-Ideas.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Quick Snack Ideas",
+   "url": "https://www.childnutritioncouncil.com/resources/p/quick-snack-ideas",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Shopping",
+    "New",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/CNCM-Quick-Snack-Ideas.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "3 Week Breakfast Menu",
+   "url": "https://www.childnutritioncouncil.com/resources/p/sample-breakfast-menu",
+   "categories": [
+    "Menu Planning"
+   ],
+   "tags": [
+    "Shopping",
+    "New",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/3-Week-Breakfast-Menu-addz.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Vegetable Dips",
+   "url": "https://www.childnutritioncouncil.com/resources/p/vegetable-dips",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Protein",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Vegetable-Dips.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Three Sisters Soup",
+   "url": "https://www.childnutritioncouncil.com/resources/p/three-sisters-soup",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Protein",
+    "Vegetables and Fruits",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Three-Sisters-Soup-1.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Pancakes",
+   "url": "https://www.childnutritioncouncil.com/resources/p/pancakes",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Grains",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Final.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "African Lentil Stew",
+   "url": "https://www.childnutritioncouncil.com/resources/p/african-lentil-stew",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Protein",
+    "Vegetables and Fruits",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/African-Lentil-Stew.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Sudan Lentil Soup",
+   "url": "https://www.childnutritioncouncil.com/resources/p/sudan-lentil-soup",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Protein",
+    "Vegetables and Fruits",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Sudan-Red-Lentil-Soup.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Sample Receipt Review",
+   "url": "https://www.childnutritioncouncil.com/resources/p/sample-receipt-review",
+   "categories": [
+    "Program Planning"
+   ],
+   "tags": [],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Sample-Receipt-Review-2023-24.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Weight Stigma and Food Neutrality",
+   "url": "https://www.childnutritioncouncil.com/resources/p/weight-stigma-and-food-neutrality",
+   "categories": [
+    "Nurturing School Nutrition Environments"
+   ],
+   "tags": [],
+   "addedOn": "2023-11-16",
+   "excerptText": "POSTER | WEIGHT STIGMA‍ ‍>> LINK TO RESOURCE <<‍ ‍>> CONSULTER LA RESSOURCE <<POSTER | FOOD NEUTRALITY‍ ‍>> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<BROCHURE FOR PRINT | WEIGHT STIGMA >> LINK TO RESOURCE << BROCHURE FOR WEB | WEIGHT STIGMA >> LINK TO RESOURCE <<BROCHURE FOR PRINT | FOOD NEUTRALITY >> LINK TO RESOURCE << BROCHURE FOR WEB | FOOD NEUTRALITY >> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/3129-NU_MB-Feels_posters_horizontal_ENG_d3-2.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/NU_MB-Feels_posters_WEIGHT-STIGMA_11x17_d3_FR.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/3129-NU_MB-Feels_posters_vertical_ENG_d3-2.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/NU_MB-Feels_posters_FOOD-NEUTRALITY_11x17_d3_FR.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/WS-no-crops.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/WS-web-version-3.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/FN-no-crops-1.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/FN-web-version.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Nurturing Healthy Eaters in the Classroom – Senior Years",
+   "url": "https://www.childnutritioncouncil.com/resources/p/nurturing-healthy-eaters-in-the-classroom-senior-years",
+   "categories": [
+    "Nurturing School Nutrition Environments"
+   ],
+   "tags": [],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/NHE-SENIOR.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/NHE-SENIOR-FRENCH.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Nurturing Healthy Eaters in the Classroom – Early and Middle Years",
+   "url": "https://www.childnutritioncouncil.com/resources/p/nurturing-healthy-eaters-in-the-classroom-early-and-middle-years",
+   "categories": [
+    "Nurturing School Nutrition Environments"
+   ],
+   "tags": [],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/NHE-EARLY-MIDDLE.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/NHE-EARLY-MIDDLE-FRENCH.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Nurturing Healthy Eaters in Early Learning and Child Care",
+   "url": "https://www.childnutritioncouncil.com/resources/p/nurturing-healthy-eaters-in-early-learning-and-child-care-eng-or-fr",
+   "categories": [
+    "Nurturing School Nutrition Environments"
+   ],
+   "tags": [],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/NHE-EARLY-LEARNING.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/NHE-EARLY-LEARNING-FRENCH.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Moving Forward with School Nutrition Guidelines",
+   "url": "https://www.childnutritioncouncil.com/resources/p/moving-forward-with-school-nutrition-guidelines",
+   "categories": [
+    "Nutrition Guidelines for Schools"
+   ],
+   "tags": [],
+   "addedOn": "2023-11-06",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.gov.mb.ca/healthyschools/foodinschools/documents/mfsng/mfsng.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.gov.mb.ca/healthyschools/foodinschools/documents/mfsng/mfsng.fr.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Quinoa Salad",
+   "url": "https://www.childnutritioncouncil.com/resources/p/quinoa-salad",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Grains",
+    "Protein",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Quinoa-Salad.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Lentil Pizza Buns",
+   "url": "https://www.childnutritioncouncil.com/resources/p/lentil-pizza-buns",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Protein",
+    "Grains",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Lentil-Pizza-Buns.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Citrus Berry Lentil Smoothie",
+   "url": "https://www.childnutritioncouncil.com/resources/p/citrus-berry-lentil-smoothie",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Protein",
+    "Beverages"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Citrus-Berry-Lentil-Smoothie.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Oatmeal Bannock",
+   "url": "https://www.childnutritioncouncil.com/resources/p/oatmeal-bannock",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Grains",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Oatmeal-Bannock.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Icelandic Oatmeal",
+   "url": "https://www.childnutritioncouncil.com/resources/p/icelandic-oatmeal",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Grains",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Icelandic-Oatmeal.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Protein Rich Waffles",
+   "url": "https://www.childnutritioncouncil.com/resources/p/protein-rich-waffles",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Protein",
+    "Grains",
+    "New",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Protein-Rich-Waffles.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Baked Oatmeal",
+   "url": "https://www.childnutritioncouncil.com/resources/p/baked-oatmeal",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Grains",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Baked-Oatmeal-Recipe-June-2021.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Receipts & Approved Expenditures",
+   "url": "https://www.childnutritioncouncil.com/resources/p/receipts-approved-expenditures",
+   "categories": [
+    "Program Planning"
+   ],
+   "tags": [],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Receipts-Approved-Expenditures.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Serving Methods",
+   "url": "https://www.childnutritioncouncil.com/resources/p/serving-methods",
+   "categories": [
+    "Program Planning"
+   ],
+   "tags": [
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Serving-Methods.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Eligibility Criteria",
+   "url": "https://www.childnutritioncouncil.com/resources/p/eligibility-criteria",
+   "categories": [
+    "Program Planning"
+   ],
+   "tags": [],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Eligibility-Criteria-Fact-Sheet-2021-06.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Calculating Food Costs",
+   "url": "https://www.childnutritioncouncil.com/resources/p/calculating-food-costs",
+   "categories": [
+    "Program Planning"
+   ],
+   "tags": [],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Calculating-Food-Costs.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Guiding Principles",
+   "url": "https://www.childnutritioncouncil.com/resources/p/guiding-principles",
+   "categories": [
+    "Program Planning"
+   ],
+   "tags": [],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Guiding-Principles.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Student Kitchen Helpers",
+   "url": "https://www.childnutritioncouncil.com/resources/p/student-kitchen-helpers",
+   "categories": [
+    "Partnerships and Volunteers"
+   ],
+   "tags": [
+    "Student",
+    "Volunteers",
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Student-Kitchen-Helpers-3e48.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Volunteers Can Help",
+   "url": "https://www.childnutritioncouncil.com/resources/p/volunteers-can-help",
+   "categories": [
+    "Partnerships and Volunteers"
+   ],
+   "tags": [
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Volunteers-can-help.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Recruit Volunteers",
+   "url": "https://www.childnutritioncouncil.com/resources/p/recruit-volunteers",
+   "categories": [
+    "Partnerships and Volunteers"
+   ],
+   "tags": [
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Recruit-Volunteers-yax6.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Motivate Volunteers",
+   "url": "https://www.childnutritioncouncil.com/resources/p/motivate-volunteers",
+   "categories": [
+    "Partnerships and Volunteers"
+   ],
+   "tags": [
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Motivate-Volunteers-ttny.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Partnership Template Letter",
+   "url": "https://www.childnutritioncouncil.com/resources/p/partnership-template-letter",
+   "categories": [
+    "Partnerships and Volunteers"
+   ],
+   "tags": [
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Partnership-Letter-5klt.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Using Bulk Produce",
+   "url": "https://www.childnutritioncouncil.com/resources/p/using-bulk-produce",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Shopping",
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<For any recommendations provided, please refer to your school and divisional allergy policies to determine which options may be a good fit for your program.",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Using-Bulk-Produce-3abr.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Food Procurement (Winnipeg)",
+   "url": "https://www.childnutritioncouncil.com/resources/p/food-procurement-winnipeg",
+   "categories": [
+    "Program Planning"
+   ],
+   "tags": [
+    "Shopping"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/CNCM-Food-Procurement-Winnipeg.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Food Procurement (South Western MB)",
+   "url": "https://www.childnutritioncouncil.com/resources/p/food-procurement-south-western-mb",
+   "categories": [
+    "Program Planning"
+   ],
+   "tags": [
+    "Shopping"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/CNCM-Food-Procurement-South-West-Manitoba.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Food Procurement (South Eastern MB)",
+   "url": "https://www.childnutritioncouncil.com/resources/p/food-procurement-south-eastern-mb",
+   "categories": [
+    "Program Planning"
+   ],
+   "tags": [
+    "Shopping"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/CNCM-Food-Procurement-South-East-Manitoba.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Food Procurements (Southern MB)",
+   "url": "https://www.childnutritioncouncil.com/resources/p/foor-procurements-southern-mb",
+   "categories": [
+    "Program Planning"
+   ],
+   "tags": [],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/CNCM-Food-Procurement-South-Central-Manitoba.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Food Procurements (Northern MB)",
+   "url": "https://www.childnutritioncouncil.com/resources/p/food-procurements-northern-mb",
+   "categories": [
+    "Program Planning"
+   ],
+   "tags": [
+    "Shopping"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/CNCM-Food-Procurement-Northern-Manitoba.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Choose a Variety! Vegetables and Fruits",
+   "url": "https://www.childnutritioncouncil.com/resources/p/choose-a-variety-vegetables-and-fruits",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Shopping",
+    "New",
+    "Vegetables and Fruits"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<For any recommendations provided, please refer to your school and divisional allergy policies to determine which options may be a good fit for your program.",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Vegetables-and-Fruits-3wbb.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "How Much Protein?",
+   "url": "https://www.childnutritioncouncil.com/resources/p/how-much-protein",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Protein",
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/How-Much-Protein-chfh.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Menu Planner: 1 Week",
+   "url": "https://www.childnutritioncouncil.com/resources/p/menu-planner-week-1",
+   "categories": [
+    "Menu Planning"
+   ],
+   "tags": [
+    "Shopping",
+    "Menu Planning",
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Menu-Planner-1-Week-Oct-2025.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Menu Planner with Grocery List",
+   "url": "https://www.childnutritioncouncil.com/resources/p/menu-planner-with-grocery-list",
+   "categories": [
+    "Menu Planning"
+   ],
+   "tags": [
+    "Shopping",
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<For any recommendations provided, please refer to your school and divisional allergy policies to determine which options may be a good fit for your program.",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Menu-Planner-with-Grocery-ahfj.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "3 Week Snack Menu",
+   "url": "https://www.childnutritioncouncil.com/resources/p/sample-snack-menu",
+   "categories": [
+    "Menu Planning"
+   ],
+   "tags": [
+    "Shopping",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<For any recommendations provided, please refer to your school and divisional allergy policies to determine which options may be a good fit for your program.",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/3-Week-Snack-Menu.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "How to Cook Dry Pulses in 3 Easy Steps",
+   "url": "https://www.childnutritioncouncil.com/resources/p/how-to-cook-dry-pulses",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Protein",
+    "New",
+    "Vegetables and Fruits"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://pulses.org/nap/cooking-tips/",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Baking Gets People Involved",
+   "url": "https://www.childnutritioncouncil.com/resources/p/baking",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Grains"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<For any recommendations provided, please refer to your school and divisional allergy policies to determine which options may be a good fit for your program.",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Baking-gets-people-involved.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Items to Have on Hand for Emergency Lunches",
+   "url": "https://www.childnutritioncouncil.com/resources/p/items-to-have-on-hand-for-emergency-lunches",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Shopping",
+    "New",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<For any recommendations provided, please refer to your school and divisional allergy policies to determine which options may be a good fit for your program.",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Items-to-have-on-hand-for-emergency-lunches.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Prepared Lunch Ideas",
+   "url": "https://www.childnutritioncouncil.com/resources/p/prepared-lunch-ideas",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Shopping",
+    "New",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Prepared-Lunch-Ideas-mkbe.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Quick Lunch Ideas",
+   "url": "https://www.childnutritioncouncil.com/resources/p/quick-lunch-ideas",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Shopping",
+    "New",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Quick-Lunch-Ideas-ggar.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Crackers",
+   "url": "https://www.childnutritioncouncil.com/resources/p/crackers-and-rice-cakes",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Grains",
+    "Shopping",
+    "New",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<For any recommendations provided, please refer to your school and divisional allergy policies to determine which options may be a good fit for your program.",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Crackers-and-Rice-Cakes-w39y.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Yogurt",
+   "url": "https://www.childnutritioncouncil.com/resources/p/yogurt",
+   "categories": [
+    "Menu Ideas",
+    "Recipes"
+   ],
+   "tags": [
+    "Protein",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Yogurt.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Fruit Infused Water",
+   "url": "https://www.childnutritioncouncil.com/resources/p/fruit-infused-water",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Beverages",
+    "New"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<For any recommendations provided, please refer to your school and divisional allergy policies to determine which options may be a good fit for your program.",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Fruit-Infused-Water.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Hot and Cold Cereals",
+   "url": "https://www.childnutritioncouncil.com/resources/p/hot-and-cold-cereals",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Grains",
+    "New",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<For any recommendations provided, please refer to your school and divisional allergy policies to determine which options may be a good fit for your program.",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Hot-and-Cold-Cereals-l732.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "10 Toast Toppers",
+   "url": "https://www.childnutritioncouncil.com/resources/p/10-toast-toppers",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Grains",
+    "New",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<For any recommendations provided, please refer to your school and divisional allergy policies to determine which options may be a good fit for your program.",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Toast-Toppers-Oct-2025.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "8 Great Ways to Add Vegetables to Breakfast",
+   "url": "https://www.childnutritioncouncil.com/resources/p/8-great-ways-to-add-vegetables-to-breakfast",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "New",
+    "Vegetables and Fruits",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<For any recommendations provided, please refer to your school and divisional allergy policies to determine which options may be a good fit for your program.",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/8-Great-Ways-to-Add-Vegetables-to-Breakfast.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "Wash Your Hands",
+   "url": "https://www.childnutritioncouncil.com/resources/p/wash-your-hands",
+   "categories": [
+    "Food Safety"
+   ],
+   "tags": [
+    "Food Safety"
+   ],
+   "addedOn": "2023-11-04",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.gov.mb.ca/agriculture/food-safety/education-resources/pubs/poster-wash-your-hands.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "DO IT RIGHT! Sanitizing with Chlorine",
+   "url": "https://www.childnutritioncouncil.com/resources/p/sanitizing-with-chlorine",
+   "categories": [
+    "Food Safety"
+   ],
+   "tags": [
+    "Food Safety"
+   ],
+   "addedOn": "2023-11-04",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.gov.mb.ca/agriculture/food-safety/education-resources/pubs/sanitizing-with-chlorine.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.gov.mb.ca/agriculture/food-safety/education-resources/pubs/sanitizing-with-chlorine-fr.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Avoid Cross Contamination",
+   "url": "https://www.childnutritioncouncil.com/resources/p/avoid-cross-contamination",
+   "categories": [
+    "Food Safety"
+   ],
+   "tags": [
+    "Food Safety"
+   ],
+   "addedOn": "2023-11-04",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.gov.mb.ca/agriculture/food-safety/education-resources/pubs/poster-avoid-cross-contamination.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.gov.mb.ca/agriculture/food-safety/education-resources/pubs/cross-contamination-fr.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Keeping Food out of the Temperature Danger Zone",
+   "url": "https://www.childnutritioncouncil.com/resources/p/keeping-food-out-of-the-temperature-danger-zone",
+   "categories": [
+    "Food Safety"
+   ],
+   "tags": [
+    "Food Safety"
+   ],
+   "addedOn": "2023-11-04",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.gov.mb.ca/agriculture/food-safety/education-resources/pubs/poster-temp-danger-zone.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Manual Dishwashing",
+   "url": "https://www.childnutritioncouncil.com/resources/p/manual-dishwashing",
+   "categories": [
+    "Food Safety"
+   ],
+   "tags": [
+    "Food Safety"
+   ],
+   "addedOn": "2023-11-04",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.gov.mb.ca/agriculture/food-safety/at-the-food-processor/food-safety-program/pubs/poster-manual-dishwashing.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.gov.mb.ca/agriculture/food-safety/education-resources/pubs/manual-dishwashing-fr.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Do it Right! Keep pests out",
+   "url": "https://www.childnutritioncouncil.com/resources/p/do-it-right-keep-pests-out",
+   "categories": [
+    "Food Safety"
+   ],
+   "tags": [
+    "Food Safety"
+   ],
+   "addedOn": "2023-11-07",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.gov.mb.ca/agriculture/food-safety/education-resources/pubs/keep-pests-out.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.gov.mb.ca/agriculture/food-safety/education-resources/pubs/keep-pests-out-fr.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "DO IT RIGHT! Wiping cloths",
+   "url": "https://www.childnutritioncouncil.com/resources/p/do-it-right-wiping-clothes",
+   "categories": [
+    "Food Safety"
+   ],
+   "tags": [
+    "Food Safety"
+   ],
+   "addedOn": "2023-11-07",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.gov.mb.ca/agriculture/food-safety/education-resources/pubs/wiping-cloths.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.gov.mb.ca/agriculture/food-safety/education-resources/pubs/wiping-cloths-fr.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "DO IT RIGHT! Storage",
+   "url": "https://www.childnutritioncouncil.com/resources/p/do-it-right-storage",
+   "categories": [
+    "Food Safety"
+   ],
+   "tags": [
+    "Food Safety"
+   ],
+   "addedOn": "2023-11-07",
+   "excerptText": ">> LINK TO RESOURCE << >> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.gov.mb.ca/agriculture/food-safety/education-resources/pubs/storage.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.gov.mb.ca/agriculture/food-safety/education-resources/pubs/storage-fr.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Sick Food Employees",
+   "url": "https://www.childnutritioncouncil.com/resources/p/sick-food-employees",
+   "categories": [
+    "Food Safety"
+   ],
+   "tags": [
+    "Food Safety"
+   ],
+   "addedOn": "2023-11-07",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.gov.mb.ca/agriculture/food-safety/education-resources/pubs/poster-sick-food-employees.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "A Collection of Tried and True Recipes",
+   "url": "https://www.childnutritioncouncil.com/resources/p/a-collection-of-tried-and-true-recipes",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Cookbooks"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.unlockfood.ca/EatRightOntario/media/PDFs-new-website/Manitoba-School-and-Childcare-Recipe-Collection-eBook.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Canada's Food Guide: Search Recipes - Breakfast, Lunch/Dinner, and Snack",
+   "url": "https://www.childnutritioncouncil.com/resources/p/search-recipes-canadas-food-guide",
+   "categories": [
+    "Nutrition Guidelines for Schools",
+    "Recipes"
+   ],
+   "tags": [
+    "Cookbooks"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.canada.ca/en/health-canada/services/food-guide/eating-support/kitchen/recipes.html",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.canada.ca/fr/sante-canada/services/guide-alimentaire/manger-favoriser/cuisine/recettes.html",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "The Language of Health",
+   "url": "https://www.childnutritioncouncil.com/resources/p/the-language-of-health",
+   "categories": [
+    "Nurturing School Nutrition Environments"
+   ],
+   "tags": [],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.azhealthzone.org/wp-content/uploads/2021/10/style-guide-language-of-health.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Four Weeks of Healthy Menus",
+   "url": "https://www.childnutritioncouncil.com/resources/p/four-weeks-of-healthy-menus",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Cookbooks"
+   ],
+   "addedOn": "2023-11-06",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://wrha.mb.ca/files/nutrition-healthy-menu-e.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Grab and Go Breakfast Recipes",
+   "url": "https://www.childnutritioncouncil.com/resources/p/grab-and-go-breakfast-recipes",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Cookbooks",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-06",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://static1.squarespace.com/static/5b5b5824f2e6b10639fdaf09/t/5c5987e8ec212d81d6bb4af4/1549371372515/GrabandGoRecipes.022019.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Healthy eating at school - Canada's Food Guide",
+   "url": "https://www.childnutritioncouncil.com/resources/p/healthy-eating-at-school-canadas-food-guide",
+   "categories": [
+    "Nutrition Guidelines for Schools"
+   ],
+   "tags": [],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.canada.ca/en/health-canada/services/food-guide/eating-support/healthy-eating-anywhere/school.html",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.canada.ca/fr/sante-canada/services/guide-alimentaire/manger-favoriser/manger-sainement-nimporte-ou/ecole.html",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Responding to religious Diversity in Manitoba’s Schools: A Guide for Educators",
+   "url": "https://www.childnutritioncouncil.com/resources/p/0vsl4ljm54eika4rikt6ltd2xipdbe",
+   "categories": [
+    "Nutrition Guidelines for Schools"
+   ],
+   "tags": [],
+   "addedOn": "2023-11-06",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.edu.gov.mb.ca/k12/docs/support/religious_diversity/full_doc.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.edu.gov.mb.ca/m12/frpub/appui/diversite_religieuse/docs/document_complet.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Understanding Halal Foods",
+   "url": "https://www.childnutritioncouncil.com/resources/p/understanding-halal-foods",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Shopping"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.tdsb.on.ca/Portals/0/Elementary/docs/tph_-_halal_guide.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Powdered Milk",
+   "url": "https://www.childnutritioncouncil.com/resources/p/powdered-milk",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Shopping"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> DOWNLOAD <<For any recommendations provided, please refer to your school and divisional allergy policies to determine which options may be a good fit for your program.",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Powdered-Milk-85-x-11.pdf",
+     "text": ">> DOWNLOAD <<"
+    }
+   ]
+  },
+  {
+   "title": "20 Things to Do with a Can of Pulses",
+   "url": "https://www.childnutritioncouncil.com/resources/p/20-things-to-do-with-a-can-of-pulses",
+   "categories": [
+    "Menu Ideas"
+   ],
+   "tags": [
+    "Protein",
+    "Vegetables and Fruits"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<For any recommendations provided, please refer to your school and divisional allergy policies to determine which options may be a good fit for your program.",
+   "excerptLinks": [
+    {
+     "href": "https://albertapulse.com/wp-content/uploads/2017/06/20-Things-to-Do-with-a-Can-of-Pulses.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Breakfast Pizza and Cucumber Sushi",
+   "url": "https://www.childnutritioncouncil.com/resources/p/breakfast-pizza-and-cucumber-sushi",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "French",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-3_online_ENG_new-Breakfast-Pizza-and-Cucumber-Sushi.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-3-French-pizza-dejeuner-sushi-de-concombre.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Breakfast Enchiladas and Cheese and Vegetable Wraps",
+   "url": "https://www.childnutritioncouncil.com/resources/p/breakfast-enchiladas-and-cheese-and-vegetable-wraps",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-11_online_ENG-Breakfast-Enchiladas-and-Cheese-and-Vegetable-Wraps.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-11-French-enchiladas-roule-au-fromage-legumes.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Sunshine Bagel and Snowflake Quesadilla",
+   "url": "https://www.childnutritioncouncil.com/resources/p/sunshine-bagel-and-snowflake-quesadilla",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-14-English.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-14-French-bagel-soleil-quesadilla-aux-flocons.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Banana Wrap and Vegetable and Fruit Dippers",
+   "url": "https://www.childnutritioncouncil.com/resources/p/banana-wrap-and-vegetable-and-fruit-dippers",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "French",
+    "Vegetables and Fruits",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-2_online-3-Banana-Wrap-and-Vegetables-and-Fruit-Dippers.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-2-French-sandwich-roule-au-bananes-legumes-et-fruits-avec-trempette.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Yogurt Bark and Carrot Cake Oatmeal",
+   "url": "https://www.childnutritioncouncil.com/resources/p/yogurt-bark-and-carrot-cake-oatmeal",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "French",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-5_online_ENG-Yogurt-Bark-and-Carrot-Cake-Oatmeal.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-5-French-ecorce-de-yogourt-gruau-davoine-delicieux.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Crunchy Banana Bites and Tortilla Chips with Dip",
+   "url": "https://www.childnutritioncouncil.com/resources/p/crunchy-banana-bites-and-tortilla-chips-with-dip",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-6_online_ENG-Crunchy-Banana-Bites-and-Tortilla-Chips-with-Dip.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-6-French-bouchees-croquantes-aux-bananes-croustilles-tortilla-avec-trempette.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Peanut Butter Banana Popsicles and Ants on a Log",
+   "url": "https://www.childnutritioncouncil.com/resources/p/peanut-butter-banana-popsicles-and-ants-on-a-log",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-10_online_ENG-Peanut-Butter-Banana-Popsicles-and-Ants-on-a-Log.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-10-French-popsicles-au-beurre-darachide-fourmis-sur-une-buche.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Frozen Flying Saucers and Moonwalk Toast",
+   "url": "https://www.childnutritioncouncil.com/resources/p/frozen-flying-saucers-and-moonwalk-toast",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-13-English.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-13-French-soucoupes-volantes-pain-perdu-lunaire.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Yogurt and Fruit Tortilla Cups and Breakfast Banana Split",
+   "url": "https://www.childnutritioncouncil.com/resources/p/yogurt-and-fruit-tortilla-cups-and-breakfast-banana-split",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-16",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-16-English.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-16-French-pots-tortilla-yogourt-fruits-banane-royale.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Fast French Toast and Power-up Oatmeal",
+   "url": "https://www.childnutritioncouncil.com/resources/p/fast-french-toast-and-power-up-oatmeal",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Grains",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-17-English.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-17-French-pain-perdu-rapide-gruau.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Egg in a Hole and Egg and Banana Pancakes",
+   "url": "https://www.childnutritioncouncil.com/resources/p/egg-in-a-hole-and-egg-and-banana-pancakes",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Protein",
+    "Grains",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-15-English.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-15-French-oeuf-dans-le-trou-crepes-aux-oeufs.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Breakfast Burrito and Egg and Vegetable Muffins",
+   "url": "https://www.childnutritioncouncil.com/resources/p/breakfast-burrito-and-egg-and-vegetable-muffins",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Protein",
+    "Grains",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-12_online_ENG-Breakfast-Burrito-and-Egg-and-Vegetable-Muffins.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-12-French-dejeuner-burrito-muffins-aux-oeufs.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Banana Smoothie and Yogurt Breakfast Bowl",
+   "url": "https://www.childnutritioncouncil.com/resources/p/banana-smoothie-and-yogurt-breakfast-bowl",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Protein",
+    "Vegetables and Fruits",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-9_online_ENG-Banana-Smoothie-and-Yogurt-Breakfast-Bowl.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-9-French-smoothie-aux-bananes-bol-de-yogourt.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Apple French Toast and Egg in a mug",
+   "url": "https://www.childnutritioncouncil.com/resources/p/apple-french-toast-and-egg-in-a-mug",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Grains",
+    "Protein",
+    "French",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-8_online_ENG_w_mef-1-Apple-French-Toast-and-Egg-in-a-mug.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-8-French-pain-perdu-pommes-cannelle-oeuf-dans-une-tasse.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Breakfast Grilled Sandwich and Fruit Salad",
+   "url": "https://www.childnutritioncouncil.com/resources/p/breakfast-grilled-sandwich-and-fruit-salad",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Grains",
+    "French",
+    "Vegetables and Fruits",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESSOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-7_online_ENG-Breakfast-Grilled-Sandwich-and-Fruit-Salad.pdf",
+     "text": ">> LINK TO RESSOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-7-French-sandwich-grille-salade-aux-fruits.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Breakfast Scramble and Hard-Boiled Egg",
+   "url": "https://www.childnutritioncouncil.com/resources/p/yogurt-parfait-and-fruity-oatmeal-1",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Protein",
+    "French",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-4_online_w_mef-1-Breakfast-Scramble-and-Hard-Boiled-Egg.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-4-French-dejeuner-aux-oeufs-brouilles-oeuf-dur.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  },
+  {
+   "title": "Yogurt Parfait and Fruity Oatmeal",
+   "url": "https://www.childnutritioncouncil.com/resources/p/yogurt-parfait-and-fruity-oatmeal",
+   "categories": [
+    "Recipes"
+   ],
+   "tags": [
+    "Protein",
+    "French",
+    "Meals and Snacks"
+   ],
+   "addedOn": "2023-11-05",
+   "excerptText": ">> LINK TO RESOURCE <<>> CONSULTER LA RESSOURCE <<",
+   "excerptLinks": [
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-1_online_june10-Yogurt-Parfait-and-Fruity-Oatmeal-d2y4.pdf",
+     "text": ">> LINK TO RESOURCE <<"
+    },
+    {
+     "href": "https://www.childnutritioncouncil.com/s/Booklet-1-French-parfait-au-yogourt-gruau-davoine-aux-fruits.pdf",
+     "text": ">> CONSULTER LA RESSOURCE <<"
+    }
+   ]
+  }
+ ]
+}

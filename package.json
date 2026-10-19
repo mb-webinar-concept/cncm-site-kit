@@ -1,0 +1,16 @@
+{
+  "name": "cncm-site-kit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Paste-in modules, data and tests for the Child Nutrition Council of Manitoba website (Squarespace).",
+  "scripts": {
+    "build": "python3 tools/build.py",
+    "import:resources": "python3 tools/squarespace_to_csv.py",
+    "test": "python3 tools/build.py && playwright test",
+    "sandbox": "python3 tools/build.py && python3 -m http.server 4173 --directory sandbox"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.10.2",
+    "@playwright/test": "1.56.0"
+  }
+}
