@@ -98,7 +98,10 @@ def main():
         '<main style="font-family:system-ui,sans-serif;max-width:760px;margin:40px auto;padding:0 16px;line-height:1.6">'
         f'<h1>CNCM site kit sandbox</h1><p>Version {VERSION}. Every module on a plain page, a French page and a page '
         'with an aggressive theme. These are the same files that get pasted into Squarespace.</p>'
+        f'<p><a href="site/index.html"><b>Open the concept website</b></a>: every page of a possible new CNCM site, with these modules in place.</p>'
         f'<ul>{items}</ul></main>'))
+    import build_site
+    build_site.main()
 
 
 if __name__ == '__main__':

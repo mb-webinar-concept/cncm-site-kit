@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.0 — 2026-10-20
+
+- Concept website (sandbox/site/, built by tools/build_site.py from site/): 11 pages with CNCM's public content, the webinar and resource libraries and the impact panel in place, and a "Coming later" page of proposed features (online grants, receipt upload, school dashboard, a grants-and-finance connection with the MSBA-run finance system, payroll and expenses, French, AI options needing a board decision).
+- Every concept page states it is not CNCM's website and is excluded from search engines; donate and waitlist links open CNCM's current site; nothing is collected.
+- 16 new tests: every page loads, passes an accessibility scan, links and anchors resolve, phone menu works.
+
 ## 1.1.1 — 2026-10-20
 
 - Change tickets in changes/ for the six engineering-review items on CNCM's Squarespace site, approved by Jess Sutherland; each still needs CNCM's approval and access.

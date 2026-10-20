@@ -21,11 +21,15 @@ Every module:
 - falls back to a plain link if JavaScript is blocked, and to its built-in data if a Google Sheet fails;
 - passes an automated accessibility scan (axe) and keyboard, phone-width and aggressive-theme tests.
 
+## Concept website
+
+`sandbox/site/` is a clickable concept of a complete CNCM site built around these modules: https://mr-jess-s.github.io/cncm-site-kit/site/ . Pages live in `site/pages/`, styles in `site/site.css`; `python3 tools/build.py` rebuilds everything. Every page says it is a concept and is hidden from search engines.
+
 ## Quick start
 
 ```bash
 npm install                 # once
-npm test                    # build, then run all 36 browser tests
+npm test                    # build, then run all 52 browser tests
 npm run sandbox             # build, then open http://localhost:4173 to try every module
 ```
 
