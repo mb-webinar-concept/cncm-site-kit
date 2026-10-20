@@ -16,14 +16,14 @@ Staff never touch this repository. They paste one file into a Squarespace Code B
 
 Every module:
 - works inside the existing Squarespace site, with no new software, accounts or tracking;
-- finds words without accents ("education" finds "Éducation") and switches to French labels on French pages;
+- finds words without accents ("education" finds "Ã‰ducation") and switches to French labels on French pages;
 - keeps filters in the address bar, so a filtered view can be shared as a link;
 - falls back to a plain link if JavaScript is blocked, and to its built-in data if a Google Sheet fails;
 - passes an automated accessibility scan (axe) and keyboard, phone-width and aggressive-theme tests.
 
 ## Concept website
 
-`sandbox/site/` is a clickable concept of a complete CNCM site built around these modules: https://mr-jess-s.github.io/cncm-site-kit/site/ . Pages live in `site/pages/`, styles in `site/site.css`; `python3 tools/build.py` rebuilds everything. Every page says it is a concept and is hidden from search engines.
+`sandbox/site/` is a clickable concept of a complete CNCM site built around these modules: https://mb-webinar-concept.github.io/cncm-site-kit/site/ . Pages live in `site/pages/`, styles in `site/site.css`; `python3 tools/build.py` rebuilds everything. Every page says it is a concept and is hidden from search engines.
 
 ## Quick start
 
@@ -84,4 +84,4 @@ The modules themselves have no third-party runtime libraries, so nothing can bre
 - Squarespace has no built-in multilingual feature; French pages need duplicate pages or an add-on.
 - Division figures are as printed on CNCM's Local Impact page, including its marked inconsistencies.
 
-More: [changes/](changes/README.md) (approved change tickets) · [docs/AGENTS.md](docs/AGENTS.md) (site overseer and webmaster agents) · [docs/STAFF-GUIDE.md](docs/STAFF-GUIDE.md) · [docs/TEST-ENVIRONMENT.md](docs/TEST-ENVIRONMENT.md) · [content/local-impact-refresh.md](content/local-impact-refresh.md)
+More: [changes/](changes/README.md) (approved change tickets) Â· [docs/AGENTS.md](docs/AGENTS.md) (site overseer and webmaster agents) Â· [docs/STAFF-GUIDE.md](docs/STAFF-GUIDE.md) Â· [docs/TEST-ENVIRONMENT.md](docs/TEST-ENVIRONMENT.md) Â· [content/local-impact-refresh.md](content/local-impact-refresh.md)

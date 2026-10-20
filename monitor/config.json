@@ -1,6 +1,6 @@
 {
   "_readme": "Sites the monitor checks. Only enable a site its owner has agreed to in writing. Checks are passive: public pages only, one request per second, robots.txt respected.",
-  "user_agent": "CNCM-site-monitor/1.0 (+https://github.com/mr-Jess-s/cncm-site-kit; passive weekly check)",
+  "user_agent": "CNCM-site-monitor/1.0 (+https://github.com/mb-webinar-concept/cncm-site-kit; passive weekly check)",
   "delay_seconds": 1.0,
   "max_pages": 150,
   "max_external_links": 300,
@@ -8,7 +8,7 @@
   "sites": [
     {
       "name": "Test site (GitHub Pages)",
-      "start_url": "https://mr-jess-s.github.io/cncm-site-kit/",
+      "start_url": "https://mb-webinar-concept.github.io/cncm-site-kit/",
       "enabled": true,
       "known_script_hosts": []
     },
