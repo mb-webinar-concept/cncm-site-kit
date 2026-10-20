@@ -3,16 +3,33 @@
   "module": "library",
   "rootClass": "cncm-wl",
   "fallback": "Browse all webinars on the <a href=\"https://www.childnutritioncouncil.com/resources/webinar\">Resource Hub</a>.",
-  "data": [{ "id": "cncm-wl-data", "file": "data/resources.csv", "only": { "type": "Webinar" } }],
+  "data": [
+    {
+      "id": "cncm-wl-data",
+      "file": "data/resources.csv",
+      "only": {
+        "type": "Webinar"
+      }
+    }
+  ],
   "config": {
     "rootId": "cncm-webinar-library",
     "dataId": "cncm-wl-data",
     "prefix": "wl",
-    "include": { "type": "Webinar" },
+    "include": {
+      "type": "Webinar"
+    },
     "sheetCsvUrl": "",
     "text": {
-      "en": { "view": "View webinar", "resources": "Watch recording" },
-      "fr": { "view": "Voir le webinaire", "resources": "Voir l’enregistrement" }
-    }
+      "en": {
+        "view": "View webinar",
+        "resources": "Watch recording"
+      },
+      "fr": {
+        "view": "Voir le webinaire",
+        "resources": "Voir l’enregistrement"
+      }
+    },
+    "view": "table"
   }
 }

@@ -18,7 +18,7 @@ const WEBINARS_IN_FIXTURE = 5;
 
 function webinarPage(opts = {}, config = {}, csv = FIXTURE) {
   let block = H.withData(H.dist('webinar-library'), 'cncm-wl-data', csv);
-  if (Object.keys(config).length) block = H.withConfig(block, config);
+  block = H.withConfig(block, Object.assign({ view: 'cards' }, config));
   return H.page(block, opts);
 }
 
@@ -113,7 +113,9 @@ test.describe('webinar library (fixture data)', () => {
     const seq = [];
     for (let i = 0; i < 6; i++) { await page.keyboard.press('Tab'); seq.push(await page.evaluate(() => document.activeElement.id || document.activeElement.tagName)); }
     expect(seq.slice(0, 4)).toEqual(['wl-topic', 'wl-lang', 'wl-year', 'wl-sort']);
-    expect(seq).toContain('A');
+    expect(seq.slice(4, 6)).toEqual(['BUTTON', 'BUTTON']);   // Table / Cards
+    await page.keyboard.press('Tab');
+    expect(await page.evaluate(() => document.activeElement.tagName)).toBe('A');
   });
 
   test('"Show more" pages long lists and moves focus to the new items', async ({ page }) => {
@@ -184,6 +186,65 @@ test.describe('webinar library (fixture data)', () => {
   });
 });
 
+test.describe('table view (the webinar default, like the Coalition list)', () => {
+  const tablePage = (opts, config = {}, csv = FIXTURE) =>
+    H.page(H.withConfig(H.withData(H.dist('webinar-library'), 'cncm-wl-data', csv), config), opts);
+
+  test('webinars open as a table with one row per webinar and only useful columns', async ({ page }) => {
+    const errors = H.trackErrors(page);
+    await H.serve(page, '/t', tablePage());
+    await expect(page.locator('#cncm-webinar-library')).toHaveAttribute('data-view', 'table');
+    await expect(page.locator('.wl-table tbody tr')).toHaveCount(WEBINARS_IN_FIXTURE);
+    await expect(page.locator('.wl-table thead th')).toHaveText(['Title', 'Topic', 'Date', 'Presenter', 'Language', 'Links']);
+    await expect(page.locator('.wl-table tbody tr').first().locator('th .wl-t')).toHaveText('Éducation alimentaire');
+    await expect(page.locator('.wl-list')).toBeHidden();
+    expect(errors).toEqual([]);
+  });
+
+  test('search and filters work in the table, and the view can be switched and shared', async ({ page, context }) => {
+    await H.serve(page, '/t', tablePage());
+    await page.fill('#wl-q', 'stigma');
+    await expect(page.locator('.wl-table tbody tr')).toHaveCount(1);
+    await expect(page.locator('.wl-table tbody td[data-label=Topic]')).toHaveText('Inclusion, Program Planning');
+    await page.getByRole('button', { name: 'Cards' }).click();
+    await expect(page.locator('.wl-card')).toHaveCount(1);
+    await expect(page.getByRole('button', { name: 'Cards' })).toHaveAttribute('aria-pressed', 'true');
+    await expect(page).toHaveURL(/wl_view=cards/);
+    const p2 = await context.newPage();
+    await H.serve(p2, '/t', tablePage());
+    await p2.goto(page.url());
+    await expect(p2.locator('.wl-card')).toHaveCount(1);
+    await page.getByRole('button', { name: 'Table' }).click();
+    await expect(page).not.toHaveURL(/wl_view/);
+  });
+
+  test('accessibility scan in table view, desktop and phone', async ({ page }) => {
+    await H.serve(page, '/t', tablePage());
+    let r = await new AxeBuilder({ page }).include('#cncm-webinar-library').analyze();
+    expect(r.violations.map(v => v.id)).toEqual([]);
+    await page.setViewportSize({ width: 375, height: 800 });
+    expect(await page.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth)).toBe(true);
+    await expect(page.locator('.wl-table thead')).toHaveCSS('position', 'absolute');
+    r = await new AxeBuilder({ page }).include('#cncm-webinar-library').analyze();
+    expect(r.violations.map(v => v.id)).toEqual([]);
+  });
+
+  test('French table headings', async ({ page }) => {
+    await H.serve(page, '/fr', tablePage({ lang: 'fr-CA' }));
+    await expect(page.locator('.wl-table thead th').first()).toHaveText('Titre');
+    await expect(page.getByRole('button', { name: 'Fiches' })).toBeVisible();
+  });
+
+  test('keeps its look under an aggressive theme', async ({ page }) => {
+    await H.serve(page, '/theme', tablePage({ head: H.HOSTILE_CSS }));
+    const s = await page.evaluate(() => {
+      const c = getComputedStyle(document.querySelector('.wl-table tbody td'));
+      return [c.fontSize, c.borderTopWidth, c.textTransform];
+    });
+    expect(s).toEqual(['16px', '0px', 'none']);
+  });
+});
+
 test.describe('without JavaScript', () => {
   test.use({ javaScriptEnabled: false });
   test('shows a link to the Resource Hub instead', async ({ page }) => {
@@ -223,7 +284,7 @@ test.describe('resource hub (real CNCM data)', () => {
 
   test('both libraries can share one page', async ({ page }) => {
     await H.serve(page, '/both', H.page(H.dist('webinar-library') + H.dist('resource-hub')));
-    await expect(page.locator('#cncm-webinar-library .wl-card')).toHaveCount(byType('Webinar'));
+    await expect(page.locator('#cncm-webinar-library .wl-table tbody tr')).toHaveCount(byType('Webinar'));
     await expect(page.locator('#cncm-resource-hub .wl-card')).toHaveCount(Math.min(24, rows.length));
     expect(await page.evaluate(() => {
       const ids = [...document.querySelectorAll('[id]')].map(e => e.id);

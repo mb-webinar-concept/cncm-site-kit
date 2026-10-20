@@ -77,7 +77,7 @@ test('phone: menu button opens the navigation, no sideways scroll', async ({ pag
 test('the libraries work inside the site', async ({ page }) => {
   await serveSite(page);
   await page.goto(`${H.BASE}/site/webinars.html`);
-  await expect(page.locator('#cncm-webinar-library .wl-card').first()).toBeVisible();
+  await expect(page.locator('#cncm-webinar-library .wl-table tbody tr').first()).toBeVisible();
   await page.goto(`${H.BASE}/site/resources.html?rh_topic=Food+Safety`);
   await expect(page.locator('#rh-topic')).toHaveValue('Food Safety');
 });

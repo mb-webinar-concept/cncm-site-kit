@@ -10,7 +10,7 @@ Staff never touch this repository. They paste one file into a Squarespace Code B
 
 | Module | Paste-in file | What it does |
 | --- | --- | --- |
-| Webinar library | `dist/webinar-library.html` | Searchable, filterable list of CNCM webinars (9 today) |
+| Webinar library | `dist/webinar-library.html` | Searchable, filterable table of CNCM webinars (9 today), like the Coalition's list; switchable to cards |
 | Resource library | `dist/resource-hub.html` | The whole Resource Hub (128 items) in one searchable list: guides, recipes, webinars |
 | Impact by region | `dist/impact.html` | Headline numbers with sources, schools supported by region, searchable division table |
 
@@ -29,7 +29,7 @@ Every module:
 
 ```bash
 npm install                 # once
-npm test                    # build, then run all 52 browser tests
+npm test                    # build, then run all 57 browser tests
 npm run sandbox             # build, then open http://localhost:4173 to try every module
 ```
 

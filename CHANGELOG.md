@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.3.0 — 2026-10-20
+
+- Webinar library opens as a table, like the Coalition for Healthy School Food's list: title with synopsis, topic, date, presenter, language and links, with search and filters above. Visitors can switch to cards; the choice is kept in shareable links. On phones each row becomes a labelled block.
+- Library type scale reduced to three sizes (14, 16, 19 px) and letter spacing reset, so site themes cannot squeeze or stretch the text.
+- Concept site: one small size and one body size throughout, normal letter spacing.
+- 5 new table tests (57 browser tests in total).
+
 ## 1.2.1 — 2026-10-20
 
 - Contractor name filled in: Jess Sutherland Management Consulting Ltd. (concept site banner and footer, staff guide).
