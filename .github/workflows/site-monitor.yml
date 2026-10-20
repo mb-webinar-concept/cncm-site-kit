@@ -1,0 +1,43 @@
+# Oversight agent, part 1: a passive weekly check of each enabled site in monitor/config.json.
+# The report arrives as a GitHub issue labelled "site-report" (GitHub emails the repository owner).
+# Note: GitHub pauses scheduled workflows in public repositories after 60 days without activity.
+name: Site monitor
+
+on:
+  schedule:
+    - cron: '0 13 * * 1'   # Mondays 13:00 UTC (8:00 Winnipeg in summer, 7:00 in winter)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: site-monitor
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install codespell==2.4.1
+      - name: Check the sites
+        run: python3 monitor/site_monitor.py --out site-report.md
+      - name: Post the report as an issue and close last week's
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create site-report --color 1f6f43 --description "Weekly site health report" --force
+          old=$(gh issue list --label site-report --state open --json number --jq '.[].number')
+          new=$(gh issue create --title "Site health report $(date -u +%Y-%m-%d)" --label site-report --body-file site-report.md)
+          for n in $old; do gh issue close "$n" --comment "Replaced by $new"; done
+      - uses: actions/upload-artifact@v4
+        with:
+          name: site-report
+          path: site-report.md
+          retention-days: 90

@@ -1,0 +1,30 @@
+{
+  "_readme": "Sites the monitor checks. Only enable a site its owner has agreed to in writing. Checks are passive: public pages only, one request per second, robots.txt respected.",
+  "user_agent": "CNCM-site-monitor/1.0 (+https://github.com/mr-Jess-s/cncm-site-kit; passive weekly check)",
+  "delay_seconds": 1.0,
+  "max_pages": 150,
+  "max_external_links": 300,
+  "stale_year_threshold": 5,
+  "sites": [
+    {
+      "name": "Test site (GitHub Pages)",
+      "start_url": "https://mr-jess-s.github.io/cncm-site-kit/",
+      "enabled": true,
+      "known_script_hosts": []
+    },
+    {
+      "name": "CNCM website",
+      "start_url": "https://www.childnutritioncouncil.com/",
+      "enabled": false,
+      "_enable_when": "CNCM has agreed in writing to weekly passive monitoring",
+      "known_script_hosts": [
+        "assets.squarespace.com",
+        "definitions.sqspcdn.com",
+        "static1.squarespace.com",
+        "uploader.squarewebsites.org",
+        "dashboard.communitybox.co"
+      ]
+    }
+  ],
+  "ignore_words": ["cncm", "manitoba", "squarespace", "pulses", "bannock", "franco", "manitobaine"]
+}

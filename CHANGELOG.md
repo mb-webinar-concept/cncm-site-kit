@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.0 — 2026-10-20
+
+- Site monitor: weekly passive check of public pages (errors, broken links, HTTPS and protective headers, insecure content, new script sources, spelling, dated statistics, alt text), posted as a GitHub issue. 5 unit tests against a local fixture site.
+- Optional AI reviewer: comments on the weekly report with grammar, clarity and outdated-wording findings.
+- Webmaster agent: on an @claude request from someone with write access, makes the change on a branch, runs all tests and opens a pull request; Squarespace changes become change tickets. Rules in CLAUDE.md.
+- One-step Windows publish script.
+
 ## 1.0.0 — 2026-10-19
 
 - Library module: search (accent-insensitive), filters for type, topic, region, language, year and past/upcoming, sorting, "Show more" paging, shareable filtered links, English and French wording, Google Sheet mode with fallback, several topics per item.

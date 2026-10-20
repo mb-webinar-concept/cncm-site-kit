@@ -46,6 +46,7 @@ tools/          build.py (makes dist/ and sandbox/), squarespace_to_csv.py (impo
 dist/           the paste-in files. Built, committed, never edited by hand
 sandbox/        test pages for every module: plain, French, aggressive theme
 tests/          Playwright browser tests, including axe accessibility scans
+monitor/        weekly site monitor (passive checks) and its tests
 docs/           staff guide, test environment, screenshots
 content/        ready-to-use copy for pages (for example refreshed Local Impact statistics)
 ```
@@ -79,4 +80,4 @@ The modules themselves have no third-party runtime libraries, so nothing can bre
 - Squarespace has no built-in multilingual feature; French pages need duplicate pages or an add-on.
 - Division figures are as printed on CNCM's Local Impact page, including its marked inconsistencies.
 
-More: [docs/STAFF-GUIDE.md](docs/STAFF-GUIDE.md) · [docs/TEST-ENVIRONMENT.md](docs/TEST-ENVIRONMENT.md) · [content/local-impact-refresh.md](content/local-impact-refresh.md)
+More: [docs/AGENTS.md](docs/AGENTS.md) (site overseer and webmaster agents) · [docs/STAFF-GUIDE.md](docs/STAFF-GUIDE.md) · [docs/TEST-ENVIRONMENT.md](docs/TEST-ENVIRONMENT.md) · [content/local-impact-refresh.md](content/local-impact-refresh.md)
