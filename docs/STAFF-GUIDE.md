@@ -42,4 +42,4 @@ Filter the list, then copy the address from the browser bar. Anyone who opens it
 
 1. Check logged out, in a private window.
 2. Undo your last edit, or paste the module file again from the latest version.
-3. Contact [Contractor organization name] with the page address and what you expected to see.
+3. Contact Jess Sutherland Management Consulting Ltd. with the page address and what you expected to see.

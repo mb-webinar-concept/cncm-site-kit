@@ -10,7 +10,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC, OUT = ROOT / 'site', ROOT / 'sandbox' / 'site'
-CONTRACTOR = '[Contractor organization name]'
+CONTRACTOR = 'Jess Sutherland Management Consulting Ltd.'
 NAV = [('schools', 'For schools', 'schools.html'), ('impact', 'Impact', 'impact.html'), ('about', 'About', 'about.html'),
        ('give', 'Give', 'give.html'), ('contact', 'Contact', 'contact.html'), ('later', 'Coming later', 'coming-later.html')]
 SUB = [('grants', 'Grants', 'grants.html'), ('support', 'Program support', 'support.html'),

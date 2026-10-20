@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.1 — 2026-10-20
+
+- Contractor name filled in: Jess Sutherland Management Consulting Ltd. (concept site banner and footer, staff guide).
+
 ## 1.2.0 — 2026-10-20
 
 - Concept website (sandbox/site/, built by tools/build_site.py from site/): 11 pages with CNCM's public content, the webinar and resource libraries and the impact panel in place, and a "Coming later" page of proposed features (online grants, receipt upload, school dashboard, a grants-and-finance connection with the MSBA-run finance system, payroll and expenses, French, AI options needing a board decision).
