@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.1 — 2026-10-20
+
+- Concept site banner and footer no longer name an author, so CNCM staff can present it; the "not CNCM's website" notice stays on every page.
+
 ## 1.3.0 — 2026-10-20
 
 - Webinar library opens as a table, like the Coalition for Healthy School Food's list: title with synopsis, topic, date, presenter, language and links, with search and filters above. Visitors can switch to cards; the choice is kept in shareable links. On phones each row becomes a labelled block.
