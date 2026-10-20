@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.1 — 2026-10-20
+
+- Change tickets in changes/ for the six engineering-review items on CNCM's Squarespace site, approved by Jess Sutherland; each still needs CNCM's approval and access.
+- Removed Python cache files committed by mistake; they are now ignored.
+
 ## 1.1.0 — 2026-10-20
 
 - Site monitor: weekly passive check of public pages (errors, broken links, HTTPS and protective headers, insecure content, new script sources, spelling, dated statistics, alt text), posted as a GitHub issue. 5 unit tests against a local fixture site.

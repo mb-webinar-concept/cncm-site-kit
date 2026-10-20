@@ -80,4 +80,4 @@ The modules themselves have no third-party runtime libraries, so nothing can bre
 - Squarespace has no built-in multilingual feature; French pages need duplicate pages or an add-on.
 - Division figures are as printed on CNCM's Local Impact page, including its marked inconsistencies.
 
-More: [docs/AGENTS.md](docs/AGENTS.md) (site overseer and webmaster agents) · [docs/STAFF-GUIDE.md](docs/STAFF-GUIDE.md) · [docs/TEST-ENVIRONMENT.md](docs/TEST-ENVIRONMENT.md) · [content/local-impact-refresh.md](content/local-impact-refresh.md)
+More: [changes/](changes/README.md) (approved change tickets) · [docs/AGENTS.md](docs/AGENTS.md) (site overseer and webmaster agents) · [docs/STAFF-GUIDE.md](docs/STAFF-GUIDE.md) · [docs/TEST-ENVIRONMENT.md](docs/TEST-ENVIRONMENT.md) · [content/local-impact-refresh.md](content/local-impact-refresh.md)
